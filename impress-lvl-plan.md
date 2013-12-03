@@ -9,7 +9,7 @@
      - montrer la croissance et la domination
    - diversite des reseaux
    - plus de 50% du traffic web mobile
- - performance
+ - course vers la performance
    - google sanctionne les site non performants
    - performance 0.1 second = x% de rebond
  
@@ -26,20 +26,29 @@
 
 ## problematique des images
 
+ - explications
  - toujours confronte a cette problematique dans toutes mes experiences pro
- - c'est venu dans playtouch: jeux video HTML5 sur mobile
+ - exemple playtouch: jeux video HTML5 sur mobile
    - plusieurs tailles de jeux fixes
    - pipeline d'asset couteuse
  - meme problematique a LVL
  - images: photos, ui
- 
-## solutions
- 
- - phase de build
- - resizing/cropping d'image a la volee
- - caching des images
  - la presse se charge de sensibiliser les devs, donc burst bientot
- - standard qui emerge RESS
+ 
+## solutions existantes
+ 
+ - TODO: tableau
+ - a la main (avantage, inconveniant)
+ - phase de build (avantage, inconveniant)
+ - resizing/cropping d'image a la volee (avantage, inconveniants: qui seront plus tard invalides par ribs)
+   - caching des images
+   - standard qui emerge RESS
+
+## demande
+
+ - projets existants avec une volonte de s'optimiser
+ - application sans serveurs dedies
+ - cloud services existants
  
 ## idee
  
@@ -47,15 +56,6 @@
    - cette problematique ressort
    - declinaison de html5 boilerplate nodejs
  - pourquoi cette idee
-
-## existant
- 
-## demande
-
-## besoins
-
- - application sans serveurs dedies
- - cloud services existants
 
 ## open source
 
