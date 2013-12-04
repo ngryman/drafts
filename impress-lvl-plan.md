@@ -226,6 +226,9 @@ MAIS ON POURRAIT FAIRE ENCORE MIEUX!
 
 ## communication
 
+ - entonnoir inverse (cf. Mailchimp)
+   - pas de 1% de transformation
+   - 1% de communication ciblee
  - twitter
  - github
  - beta fermee
