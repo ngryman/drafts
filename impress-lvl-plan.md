@@ -201,6 +201,11 @@ MAIS ON POURRAIT FAIRE ENCORE MIEUX!
 
  - lvl sera connue techniquement, prepare l'arrivee de nouveau produits (pas forcement entierement open source)
 
+## exemple open source
+
+ - nodejs / joyent
+ - mysql
+
 ## communication
 
  - twitter
