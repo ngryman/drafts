@@ -1,5 +1,7 @@
 - Web = technologie != de site Internet
 - SaaS = Software as a Service
+- seduire les developpeurs directement, et non les entreprises
+  - se sont eux qui font les choix technologiques
 
 ## contexte (quoi?)
 
@@ -112,6 +114,7 @@
 
  - qualite
  - performance
+ - facilite d'utilisation
  - state of the art
  
 ## technologies
