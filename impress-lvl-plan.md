@@ -69,10 +69,11 @@
  - qu'est-ce qu'on veut faire: repondre a la majorite des solutions pour tout le monde
  - explications rapide (pitch)
  
-## produit
+## outil (on va creer)
 
  - RIBS!
   - 3 briques assemblees pour offrir une solution payante
+  - couvre tous les fronts (solutions)
  - 3 couches qui repondent chacune a des besoins differents, mais qui se completent pour offrir une solution finale
 
 ## manipulation d'images
@@ -92,6 +93,13 @@
   - objective-c
   - android
   - autres?
+  
+## service
+
+ - platforme sur le cloud
+ 
+ 
+ 
    
 ## esprit
 
