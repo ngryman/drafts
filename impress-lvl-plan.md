@@ -1,4 +1,5 @@
 - Web = technologie != de site Internet
+- SaaS = Software as a Service
 
 ## contexte (quoi?)
 
@@ -27,23 +28,27 @@
 ## problematique des images
 
  - explications
+   - images: photos, ui
  - toujours confronte a cette problematique dans toutes mes experiences pro
  - exemple playtouch: jeux video HTML5 sur mobile
    - plusieurs tailles de jeux fixes
    - pipeline d'asset couteuse
  - meme problematique a LVL
- - images: photos, ui
  
 ## besoin (pourquoi?)
 
- - concurrentiel, booster: course a la performance
- - pourquoi c'est interessant d'optimiser
+ - solutionner cette problematique
+   - concurrentiel, se demarquet: course a la performance
+   - explosion des acces Internet dans les pays en voie de developpement ou Internet est uniquement accessible sur mobile
+   - pourquoi c'est interessant d'optimiser
  - la presse se charge de sensibiliser les devs/studios, donc burst d'utilisation bientot
+   - besoin qui va se developper de plus en plus dans l'avenir
  
 ## demande (qui?)
 
  - differents profils (ciblage), 3/4 personnages "techniques"
- - projets existants avec une volonte de s'optimiser
+   - projets existants avec une volonte de repondre a ce probleme
+   - nouveux projets
  - application sans serveurs dedies
  
 ## solutions existantes
@@ -61,12 +66,8 @@
  
 ## idee
  
- - repondre a la majorite des solutions pour tout le monde
+ - qu'est-ce qu'on veut faire: repondre a la majorite des solutions pour tout le monde
  - explications rapide (pitch)
- - html5boilerplate: explique que ce sont des gurus
-   - cette problematique ressort
-   - declinaison de html5 boilerplate nodejs
- - pourquoi cette idee
  
 ## produit
 
@@ -165,6 +166,11 @@
 MAIS ON POURRAIT FAIRE ENCORE MIEUX!
 ## open source
 
+ - html5boilerplate: explique que ce sont des gurus
+   - cette problematique ressort
+   - declinaison de html5 boilerplate nodejs
+   - pourquoi cette idee
+ 
  - notoriete technique
  - penetration chez les non-clients
    - qui se convertiront peut etre plus tard a une solution payante
