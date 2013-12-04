@@ -1,6 +1,6 @@
 - Web = technologie != de site Internet
 
-## contexte
+## contexte (quoi?)
 
  - explosion HTML5, revirement des entreprises pour cette technologie (TODO: fresque)
    - bcp de monde utilise et de plus en plus
@@ -33,54 +33,40 @@
    - pipeline d'asset couteuse
  - meme problematique a LVL
  - images: photos, ui
- - la presse se charge de sensibiliser les devs, donc burst bientot
+ 
+## besoin (pourquoi?)
+
+ - concurrentiel, booster: course a la performance
+ - pourquoi c'est interessant d'optimiser
+ - la presse se charge de sensibiliser les devs/studios, donc burst d'utilisation bientot
+ 
+## demande (qui?)
+
+ - differents profils (ciblage), 3/4 personnages "techniques"
+ - projets existants avec une volonte de s'optimiser
+ - application sans serveurs dedies
  
 ## solutions existantes
  
  - TODO: tableau
+ - TODO: referencer a quel profil ca convient
  - a la main (avantage, inconveniant)
  - phase de build (avantage, inconveniant)
+   - grunt
+   - ...
  - resizing/cropping d'image a la volee (avantage, inconveniants: qui seront plus tard invalides par ribs)
    - caching des images
    - standard qui emerge RESS
-
-## demande
-
- - projets existants avec une volonte de s'optimiser
- - application sans serveurs dedies
- - cloud services existants
+   - services sur le cloud
  
 ## idee
  
+ - repondre a la majorite des solutions pour tout le monde
+ - explications rapide (pitch)
  - html5boilerplate: explique que ce sont des gurus
    - cette problematique ressort
    - declinaison de html5 boilerplate nodejs
  - pourquoi cette idee
-
-## open source
-
- - notoriete technique
- - penetration chez les non-clients
-   - qui se convertiront peut etre plus tard a une solution payante
- - publicite via les developpeurs
- - pas de concurrence directe
- - github / twitter: viral (ex: de retweet)
- - communaute
-   - proche des besoins utilisateurs
-   - q&a gratuite
-   - features gratuites
- - nodejs
-   - plus grosse communaute en croissance exponentielle
-   - performances
-   - en contact avec Joyent
- - dangers
-   - propriete intellectuelle: licences
-   - pas de solution payante: vendre du service
-   - 
- - freins
-   - configuration
-
- - lvl sera connue techniquement, prepare l'arrivee de nouveau produits (pas forcement entierement open source)
  
 ## produit
 
@@ -175,6 +161,32 @@
  - SaaS
  - marque blanche
  - consulting
+ 
+MAIS ON POURRAIT FAIRE ENCORE MIEUX!
+## open source
+
+ - notoriete technique
+ - penetration chez les non-clients
+   - qui se convertiront peut etre plus tard a une solution payante
+ - publicite via les developpeurs
+ - pas de concurrence directe
+ - github / twitter: viral (ex: de retweet)
+ - communaute
+   - proche des besoins utilisateurs
+   - q&a gratuite
+   - features gratuites
+ - nodejs
+   - plus grosse communaute en croissance exponentielle
+   - performances
+   - en contact avec Joyent
+ - dangers
+   - propriete intellectuelle: licences
+   - pas de solution payante: vendre du service
+   - 
+ - freins
+   - configuration
+
+ - lvl sera connue techniquement, prepare l'arrivee de nouveau produits (pas forcement entierement open source)
 
 ## communication
 
