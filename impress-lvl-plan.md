@@ -72,27 +72,45 @@
 ## produit
 
  - RIBS!
- - 3 couches
- - manipulation d'images
-   - resizing, cropping, transcoding, art direction
+  - 3 briques assemblees pour offrir une solution payante
+ - 3 couches qui repondent chacune a des besoins differents, mais qui se completent pour offrir une solution finale
+
+## manipulation d'images
+
+ - resizing, cropping, transcoding, art direction
    - plus performant que l'existant
    - extensible a souhait
- - serveur d'images
-   - plus performant que l'existant
+
+## serveur d'images
+
+ - plus performant que l'existant
    - 
- - detection client
-   - javascript
-   - objective-c
-   - android
-   - autres?
+
+## detection client
+
+  - javascript
+  - objective-c
+  - android
+  - autres?
    
 ## esprit
 
  - qualite
  - performance
  - state of the art
+ 
+## technologies
 
-## but
+ - nodejs: evented i/o, javascript
+ - C++: manipulation
+   - custom IO
+   - Leptonica (Google dev) puis custom operations
+ - pipeline
+ - hooks
+ - constraints
+ - unit tested
+
+## but (conclusion)
 
  - state of the art image server
  - consulting
@@ -113,17 +131,6 @@
  - etat des lieux
  - comparaison
  - cdn intelligents: akamai
-
-## technologies
-
- - nodejs: evented i/o, javascript
- - C++: manipulation
-   - custom IO
-   - Leptonica (Google dev) puis custom operations
- - pipeline
- - hooks
- - constraints
- - unit tested
 
 ## optimisations
 
