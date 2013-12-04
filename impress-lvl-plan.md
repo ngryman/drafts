@@ -94,12 +94,19 @@
   - android
   - autres?
   
+## concurrents
+
+ - communautre nodejs
+   - la plus active au niveau de l'open source
+   - en pleine explosion
+   - pas d'existant
+  - dependances de plusieurs projets open sources
+  - bounties
+  - debouches
+  
 ## service
 
  - platforme sur le cloud
- 
- 
- 
    
 ## esprit
 
