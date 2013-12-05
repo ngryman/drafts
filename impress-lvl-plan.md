@@ -62,6 +62,10 @@
  - TODO: tableau
  - TODO: referencer a quel profil ca convient
  - a la main (avantage, inconveniant)
+   - demande du temps
+   - en general bacler (pas de sharpening, etc...)
+   - pas scalable
+   - pas adapte au changement
  - phase de build (avantage, inconveniant)
    - grunt
    - ...
