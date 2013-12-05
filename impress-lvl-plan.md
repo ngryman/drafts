@@ -2,6 +2,8 @@
 - SaaS = Software as a Service
 - seduire les developpeurs directement, et non les entreprises
   - se sont eux qui font les choix technologiques
+- offrir le meilleur resizing, constant pour tous les navigateurs:
+  - eviter de laisser le navigateur resizer permet aussi d'avoir le controle sur la qualite de l'image resizee. Les navigateurs emploient differents types de resizing qui font que le resultat peut varier. De plus ils sont plus dans l'optique de choisir des algos performants que qualitatifs.
 
 ## contexte (quoi?)
 
