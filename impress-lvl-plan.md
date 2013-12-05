@@ -4,6 +4,8 @@
   - se sont eux qui font les choix technologiques
 - offrir le meilleur resizing, constant pour tous les navigateurs:
   - eviter de laisser le navigateur resizer permet aussi d'avoir le controle sur la qualite de l'image resizee. Les navigateurs emploient differents types de resizing qui font que le resultat peut varier. De plus ils sont plus dans l'optique de choisir des algos performants que qualitatifs.
+- permettre de modifier les parametres de sharpening (et autres) par image.
+  - generer un hash unique a partir de la data + parametres.
 
 ## contexte (quoi?)
 
