@@ -83,119 +83,54 @@
  - qu'est-ce qu'on veut faire: repondre a la majorite des solutions pour tout le monde
  - explications rapide (pitch)
  
-## outil (on va creer)
+## outil (j'ai pense a)
 
- - RIBS!
-  - 3 briques assemblees pour offrir un outil complet et extensible
-  - couvre tous les fronts (solutions)
- - 3 couches qui repondent chacune a des besoins differents, mais qui se completent pour offrir une solution finale
-
-## manipulation d'images
-
- - resizing, cropping, transcoding, art direction
-   - plus performant que l'existant
-   - extensible a souhait
-
-## serveur d'images
-
- - plus performant que l'existant
-   - 
-
-## detection client
-
-  - javascript
-  - objective-c
-  - android
-  - autres?
+ - RIBS! : combler les inconvenients existants
+   - technologiquement cool
+   - focaliser sur la qualite des transformations
+   - performance
+   - simple d'utilisation
   
+## concurrents directs & reponse partielle
+
+- concurrents open source majoritairement
+  - concurrents, qualite pas forcement presente
+- recoupe les profils et leur eventuelle utilisation
+
 ## service
 
- - platforme sur le cloud
+ - platforme sur le cloud, en quoi ca repond mieux
+   - facile a utilser
+   - instantane
  
 ## concurrents
 
- - communautre nodejs
-   - la plus active au niveau de l'open source
-   - en pleine explosion
-   - pas d'existant
-  - dependances de plusieurs projets open sources
-  - bounties
-  - debouches
-   
-## esprit
-
- - qualite
- - performance
- - facilite d'utilisation
- - state of the art
- - rendre le Web meilleur
+ - responsive.io
+ - resrc.it
+   - liste
+   - etat des lieux
+   - comparaison
+   - cdn intelligents: akamai
  
-## technologies
-
- - nodejs: evented i/o, javascript
- - C++: manipulation
-   - custom IO
-   - Leptonica (Google dev) puis custom operations
- - pipeline
- - hooks
- - constraints
- - unit tested
-
-## but (conclusion)
-
- - state of the art image server
- - consulting
- - optimization
- - small to big compagnies
- - penetrer sur plusieurs fronts
-
-## concurrents
- 
- - liste
- - etat des lieux
- - comparaison
- - cdn intelligents: akamai
-
-## optimisations
-
- - pre-caching on idle
- - simd
- - custom allocators
-
-## architecture
-
- - landing page + site commercial sur Github
- - app sur Joyent
- - cache sur Cloudflare
-
-## Couts
-
- - moi
- - Joyent Standard 2: $38/mo
- - cloudflare por: $20/mo
- - total: $6150/mo
- - 6mo: $36900
-   
 ## avantages concurrentiels
-
- - open source!
- - prix adaptifs et degressifs
  
-## futur
-
- - art direction
- - art direction dynamique
-   
-## swot
+  - prix
+    - prix adaptifs et degressifs
+  - qualite
+  - scaling
 
 ## modele economique
 
- - SaaS
- - marque blanche
- - consulting
+## plan d'action
+
+ - technique
+ - communication
+ - ...
  
 MAIS ON POURRAIT FAIRE ENCORE MIEUX!
 ## open source
+
+ - presentation
 
  - html5boilerplate: explique que ce sont des gurus
    - cette problematique ressort
@@ -224,6 +159,117 @@ MAIS ON POURRAIT FAIRE ENCORE MIEUX!
    - configuration
 
  - lvl sera connue techniquement, prepare l'arrivee de nouveau produits (pas forcement entierement open source)
+
+ - communautre nodejs
+   - la plus active au niveau de l'open source
+   - en pleine explosion
+   - pas d'existant
+  - dependances de plusieurs projets open sources
+  - bounties
+  - debouches
+  
+## Outil detaille
+
+  - 3 briques assemblees pour offrir un outil complet et extensible
+  - couvre tous les fronts (solutions)
+ - 3 couches qui repondent chacune a des besoins differents, mais qui se completent pour offrir une solution finale
+ - axe de communication enorme
+   - API sexy
+   - extensibilite
+
+### manipulation d'images
+
+ - resizing, cropping, transcoding, art direction
+   - plus performant que l'existant
+   - extensible a souhait
+
+### serveur d'images
+
+ - plus performant que l'existant
+   - 
+
+### detection client
+
+  - javascript
+  - objective-c
+  - android
+  - autres?
+   
+## esprit
+
+ - qualite
+ - performance
+ - facilite d'utilisation
+ - state of the art
+ - rendre le Web meilleur
+ 
+## FCS
+
+ - prix
+ - extensible
+ - communaute
+ - communication
+ 
+## Couts
+
+ - moi
+ - Joyent Standard 2: $38/mo
+ - cloudflare por: $20/mo
+ - total: $6150/mo
+ - 6mo: $36900
+   
+## avantages concurrentiels
+
+ - open source!
+ - prix adaptifs et degressifs
+ 
+## futur
+
+ - art direction
+ - art direction dynamique
+   
+## swot
+
+## modele economique
+
+ - SaaS
+ - marque blanche
+ - consulting
+ 
+ 
+ 
+ 
+ 
+## technologies
+
+ - nodejs: evented i/o, javascript
+ - C++: manipulation
+   - custom IO
+   - Leptonica (Google dev) puis custom operations
+ - pipeline
+ - hooks
+ - constraints
+ - unit tested
+
+## but (conclusion)
+
+ - state of the art image server
+ - consulting
+ - optimization
+ - small to big compagnies
+ - penetrer sur plusieurs fronts
+
+## optimisations
+
+ - pre-caching on idle
+ - simd
+ - custom allocators
+
+## architecture
+
+ - landing page + site commercial sur Github
+ - app sur Joyent
+ - cache sur Cloudflare
 
 ## exemple open source
 
@@ -276,7 +322,12 @@ MAIS ON POURRAIT FAIRE ENCORE MIEUX!
 
  - fulltime
  - 1 ui/ux pour le site et l'interface d'admin
- 
+
+## recap
+
+ - faibles risques
+ - possibilite de diversification enorme
+
 ## questions?
 
 ## sources
