@@ -41,10 +41,10 @@
    - pipeline d'asset couteuse
  - meme problematique a LVL
  
-## besoin (pourquoi?)
+## besoins (pourquoi?)
 
  - solutionner cette problematique
-   - concurrentiel, se demarquet: course a la performance
+   - concurrentiel, se demarquer: course a la performance
    - explosion des acces Internet dans les pays en voie de developpement ou Internet est uniquement accessible sur mobile
    - pourquoi c'est interessant d'optimiser
  - la presse se charge de sensibiliser les devs/studios, donc burst d'utilisation bientot
@@ -56,6 +56,10 @@
    - projets existants avec une volonte de repondre a ce probleme
    - nouveux projets
  - application sans serveurs dedies
+ - Studios de developmments
+ - Sites prives: e-commerce, entreprises, gouvernement, presse, tv, etc...
+ - Services en ligne
+ - Developpeurs
  
 ## solutions existantes
  
@@ -82,7 +86,7 @@
 ## outil (on va creer)
 
  - RIBS!
-  - 3 briques assemblees pour offrir une solution payante
+  - 3 briques assemblees pour offrir un outil complet et extensible
   - couvre tous les fronts (solutions)
  - 3 couches qui repondent chacune a des besoins differents, mais qui se completent pour offrir une solution finale
 
@@ -104,6 +108,10 @@
   - android
   - autres?
   
+## service
+
+ - platforme sur le cloud
+ 
 ## concurrents
 
  - communautre nodejs
@@ -113,10 +121,6 @@
   - dependances de plusieurs projets open sources
   - bounties
   - debouches
-  
-## service
-
- - platforme sur le cloud
    
 ## esprit
 
@@ -124,6 +128,7 @@
  - performance
  - facilite d'utilisation
  - state of the art
+ - rendre le Web meilleur
  
 ## technologies
 
@@ -143,13 +148,6 @@
  - optimization
  - small to big compagnies
  - penetrer sur plusieurs fronts
-
-## clients
-
- - Studios de developmments
- - Sites prives: e-commerce, entreprises, gouvernement, presse, tv, etc...
- - Services en ligne
- - Developpeurs
 
 ## concurrents
  
