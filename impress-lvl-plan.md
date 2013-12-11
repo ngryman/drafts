@@ -250,6 +250,17 @@ MAIS ON POURRAIT FAIRE ENCORE MIEUX!
  - hooks
  - constraints
  - unit tested
+ 
+## resizing
+
+ - Resampling avec Lanczos 3 kernel
+   - renforce les edges (evite de faire un bicubic + unsharp).
+   - optimise via la "periode de sampling"
+   - possibilite de parallelise (SIMD)
+ - optimizations
+   - custom allocator: work area = image area + stack area
+     - image area: block allocator
+     - stack area: obstack
 
 ## but (conclusion)
 
