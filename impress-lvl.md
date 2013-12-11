@@ -24,6 +24,10 @@
   - Obstacles:
     - renvoie un image cheap
     - cout de marketing
+  - Performance c'est sexy pour les dev. C'est un peu une quete technique.
+    - Une solution performante va attirer, intriguer (surtout si elle se compare a l'existant).
+    
+- Profil developpeur, a developper trolololo
 
 - Planning
   - Service + com
