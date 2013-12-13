@@ -17,20 +17,32 @@
 ### Explosion de devices
 
 - 16% du traffic sont des tablettes / mobiles [[1]]
+- croissance x8 des mobiles par rapport au desktop [[2]]
+- dans les 4 prochaines annees, la croissance est prevue a x26 [[2]]
 
 [1]: http://blogs.adobe.com/digitalmarketing/digital-index/tablets-trump-smartphones-in-global-website-traffic
+[2]: http://fr.slideshare.net/livefront/responsive-design-7877412
+
+### Explosions des images
+
+- 500 M+ de photos uploadees par jour [[1]]
+  - croissance exponentielle
+
+[1]: http://fr.slideshare.net/kleinerperkins/kpcb-internet-trends-2013
 
 ### Responsive design
 
-- TODO desc responsive design
-- 
+- Le meme code pour tous les ecrans.
+- Layout flexible.
 
 ## Problematique des images
 
+- Etat actuel des images: images adaptives.
 - graphique : ligne droite des resolutions, approximation avec des rectangle
   - on peut considerer la droite comme une infinite de resolutions.
   - comme upscaling est mauvais, approximation par le haut.
   - aire entre la droite et le rectangle represente la perte.
+- but : image flexibles.
 
 - Solution
   - Calcul du cout par image moyen
