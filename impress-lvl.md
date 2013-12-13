@@ -38,6 +38,7 @@
 
 ### Responsive design
 
+- Adaptif → Responsive
 - Le meme code pour tous les ecrans.
 - Layout flexible.
 
