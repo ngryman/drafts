@@ -63,7 +63,7 @@ http://www.globaldots.com/10-reasons-to-speed-up-your-website/
   - Peut varier enormement selon les sites. Nous verrons plus tard en détail ?
 - 500 M+ de photos uploadees par jour [[1]]
   - croissance exponentielle
-- Répartition
+- Répartition:
   - 50% sont des JPEG, donc photos.
   - 25% sont des GIF, ui et internet memes.
   - 25% sont des PNG, ui.
