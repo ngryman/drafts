@@ -42,6 +42,7 @@
   - reseau (3G)
   - batterie
 
+http://www.globaldots.com/how-website-speed-affects-conversion-rates/
 http://www.globaldots.com/10-reasons-to-speed-up-your-website/
 
 ## Problematique
@@ -66,6 +67,8 @@ http://www.globaldots.com/10-reasons-to-speed-up-your-website/
 [1]: http://fr.slideshare.net/kleinerperkins/kpcb-internet-trends-2013
 [2]: http://httparchive.org/compare.php
 [3]: http://httparchive.org/interesting.php#bytesperpage
+
+http://royal.pingdom.com/2011/11/21/web-pages-getting-bloated-here-is-why/
 
 ### Problematique des images
 
