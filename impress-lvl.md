@@ -34,6 +34,15 @@
 
 - Histoire du mec qui a optimiser son site et qui a vu ses performances chutter
   - apres investigation il s'est rendu compte que le nombre de visiteurs des pays en vois de developpement avait explose car son site ne prenait plus que quelques secondes a charger sur leur reseau, au lieu de plus d'une minute.
+  
+- Impacte les entreprises: image perfmatters
+  - utilisateurs sur mobiles sont impatients
+- Impacte les utilisateurs
+  - meilleure experience
+  - reseau (3G)
+  - batterie
+
+http://www.globaldots.com/10-reasons-to-speed-up-your-website/
 
 ## Problematique
 
