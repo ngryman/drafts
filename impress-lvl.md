@@ -19,9 +19,14 @@
 - 16% du traffic sont des tablettes / mobiles [[1]]
 - croissance x8 des mobiles par rapport au desktop [[2]]
 - dans les 4 prochaines annees, la croissance est prevue a x26 [[2]]
+- android domine 80% du marche [[4]]
+  - plus de 300 devices [[3]]
+- croissance d'android -> plus grande segmentation [[3]]
 
 [1]: http://blogs.adobe.com/digitalmarketing/digital-index/tablets-trump-smartphones-in-global-website-traffic
 [2]: http://fr.slideshare.net/livefront/responsive-design-7877412
+[3]: http://developer.android.com/about/index.html
+[4]: http://appleinsider.com/articles/13/11/12/idc-data-shows-66-of-androids-81-smartphone-share-are-junk-phones-selling-for-215
 
 ### Explosions des images
 
