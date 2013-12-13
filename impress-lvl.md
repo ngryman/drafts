@@ -36,6 +36,11 @@
 
 ==> Accéder à la **même application** sur **tous les devices**, de **n'importe où** et de manière **performante**.
 
+### Responsive design
+
+- Le meme code pour tous les ecrans.
+- Layout flexible.
+
 ### Explosions des images
 
 - 500 M+ de photos uploadees par jour [[1]]
@@ -44,12 +49,7 @@
 
 [1]: http://fr.slideshare.net/kleinerperkins/kpcb-internet-trends-2013
 
-### Responsive design
-
-- Le meme code pour tous les ecrans.
-- Layout flexible.
-
-## Problematique des images
+### Problematique des images
 
 - Etat actuel des images: images adaptives.
 - graphique : ligne droite des resolutions, approximation avec des rectangle
