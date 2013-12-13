@@ -80,6 +80,8 @@
    - services sur le cloud
    
    - dans les 2 premiers cars: DOUBLE RESIZING (source + navigateur) -> dégradation forte de la qualité de l'image.
+     - une decompression / compression supplémentaire sur une image resizée.
+     - une qualité de resizing divergeante selon le navigateur.
  
 ## idee
  
