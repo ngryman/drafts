@@ -32,6 +32,7 @@
 
 - 500 M+ de photos uploadees par jour [[1]]
   - croissance exponentielle
+- 
 
 [1]: http://fr.slideshare.net/kleinerperkins/kpcb-internet-trends-2013
 
@@ -39,6 +40,12 @@
 
 - Le meme code pour tous les ecrans.
 - Layout flexible.
+
+### Performance as design
+
+> It’s time for us to treat performance as an essential design feature, not just as a technical best practice. - Brad Frost
+
+==> Accéder à la **même application** sur **tous les devices**, de **n'importe où** et de manière **performante**.
 
 ## Problematique des images
 
