@@ -46,7 +46,7 @@
 - 500 M+ de photos uploadees par jour [[1]]
   - croissance exponentielle
 - 60% du poids d'une page sont des images [[3]]
-- En 3 ans, le poids des pages a doublé. [[2]]
+- En 3 ans, le poids des pages a plus que doublé. [[2]]
 
 [1]: http://fr.slideshare.net/kleinerperkins/kpcb-internet-trends-2013
 [2]: http://httparchive.org/compare.php
