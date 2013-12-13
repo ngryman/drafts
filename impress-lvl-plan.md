@@ -65,6 +65,7 @@
  
  - TODO: tableau
  - TODO: referencer a quel profil ca convient
+ - aucun, resize navigateur
  - a la main (avantage, inconveniant)
    - demande du temps
    - en general bacler (pas de sharpening, etc...)
@@ -77,6 +78,8 @@
    - caching des images
    - standard qui emerge RESS: http://mobile.smashingmagazine.com/2013/10/08/responsive-website-design-with-ress/
    - services sur le cloud
+   
+   - dans les 2 premiers cars: DOUBLE RESIZING (source + navigateur) -> dégradation forte de la qualité de l'image.
  
 ## idee
  
@@ -323,6 +326,8 @@ MAIS ON POURRAIT FAIRE ENCORE MIEUX!
    - Lea Verou: W3C
      - Github: 3.3k
      - Twitter: 39 988
+     
+- http://tinyletter.com/ben/letters/why-i-hate-funnels
  
 ## planning
 
