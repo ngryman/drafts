@@ -93,6 +93,11 @@ http://royal.pingdom.com/2011/11/21/web-pages-getting-bloated-here-is-why/
 
 [1]: http://httparchive.org/interesting.php#caching
 
+- Objectifs
+  - Performance
+  - Qualité
+  - Scalability
+  
 - Solution
   - Calcul du cout par image moyen
   - Nombre de declinaisons d'une image moyen
