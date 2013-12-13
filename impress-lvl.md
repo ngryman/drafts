@@ -2,6 +2,7 @@
 
 ### HTML5
 
+- http://www.evolutionoftheweb.com/?hl=fr#/evolution/day
 - fin 2010
 - La fin du HTML versionne, le debut d'une nouvelle ere
   - cycle de developpement des navigateurs hyper accelere (Firefox: 15 jours, Chrome: 15/30 jours)
@@ -14,6 +15,22 @@
 [1]: http://langpop.com/
 
 ### Explosion de devices
+
+- 16% du traffic sont des tablettes / mobiles [[1]]
+
+[1]: http://blogs.adobe.com/digitalmarketing/digital-index/tablets-trump-smartphones-in-global-website-traffic
+
+### Responsive design
+
+- TODO desc responsive design
+- 
+
+## Problematique des images
+
+- graphique : ligne droite des resolutions, approximation avec des rectangle
+  - on peut considerer la droite comme une infinite de resolutions.
+  - comme upscaling est mauvais, approximation par le haut.
+  - aire entre la droite et le rectangle represente la perte.
 
 - Solution
   - Calcul du cout par image moyen
