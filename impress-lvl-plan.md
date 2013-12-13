@@ -75,7 +75,7 @@
    - ...
  - resizing/cropping d'image a la volee (avantage, inconveniants: qui seront plus tard invalides par ribs)
    - caching des images
-   - standard qui emerge RESS
+   - standard qui emerge RESS: http://mobile.smashingmagazine.com/2013/10/08/responsive-website-design-with-ress/
    - services sur le cloud
  
 ## idee
