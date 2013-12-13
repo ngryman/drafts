@@ -12,7 +12,7 @@
 - cross platform par excellence
 - propulse par les mobiles et particulierement l'iPhone.
 
-[1]: http://langpop.com/
+[1]: http://langpop.com
 
 ### Explosion de devices
 
@@ -21,7 +21,7 @@
 - dans les 4 prochaines annees, la croissance est prevue a x26 [[2]]
 - android domine 80% du marche [[4]]
   - plus de 300 devices [[3]]
-- croissance d'android -> plus grande segmentation [[3]]
+- croissance d'android -> plus grande segmentation -> plus de tailles d'ecrans [[3]]
 
 [1]: http://blogs.adobe.com/digitalmarketing/digital-index/tablets-trump-smartphones-in-global-website-traffic
 [2]: http://fr.slideshare.net/livefront/responsive-design-7877412
