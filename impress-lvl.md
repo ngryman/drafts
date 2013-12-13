@@ -58,11 +58,12 @@ http://www.globaldots.com/10-reasons-to-speed-up-your-website/
 
 ### Explosions des images
 
-- 500 M+ de photos uploadees par jour [[1]]
-  - croissance exponentielle
+- En 3 ans, le poids des pages a plus que doublé. [[2]]
 - 60% du poids d'une page sont des images [[3]]
   - Peut varier enormement selon les sites. Nous verrons plus tard en détail ?
-- En 3 ans, le poids des pages a plus que doublé. [[2]]
+- 500 M+ de photos uploadees par jour [[1]]
+  - croissance exponentielle
+- env 50% sont des JPEG, donc photos.
 
 [1]: http://fr.slideshare.net/kleinerperkins/kpcb-internet-trends-2013
 [2]: http://httparchive.org/compare.php
