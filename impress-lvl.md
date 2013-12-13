@@ -28,6 +28,14 @@
 [3]: http://developer.android.com/about/index.html
 [4]: http://appleinsider.com/articles/13/11/12/idc-data-shows-66-of-androids-81-smartphone-share-are-junk-phones-selling-for-215
 
+### Performance as design
+
+> It’s time for us to treat performance as an essential design feature, not just as a technical best practice. - Brad Frost
+
+## Problematique
+
+==> Accéder à la **même application** sur **tous les devices**, de **n'importe où** et de manière **performante**.
+
 ### Explosions des images
 
 - 500 M+ de photos uploadees par jour [[1]]
@@ -40,12 +48,6 @@
 
 - Le meme code pour tous les ecrans.
 - Layout flexible.
-
-### Performance as design
-
-> It’s time for us to treat performance as an essential design feature, not just as a technical best practice. - Brad Frost
-
-==> Accéder à la **même application** sur **tous les devices**, de **n'importe où** et de manière **performante**.
 
 ## Problematique des images
 
