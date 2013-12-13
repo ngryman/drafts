@@ -32,6 +32,9 @@
 
 > It’s time for us to treat performance as an essential design feature, not just as a technical best practice. - Brad Frost
 
+- Histoire du mec qui a optimiser son site et qui a vu ses performances chutter
+  - apres investigation il s'est rendu compte que le nombre de visiteurs des pays en vois de developpement avait explose car son site ne prenait plus que quelques secondes a charger sur leur reseau, au lieu de plus d'une minute.
+
 ## Problematique
 
 ==> Accéder à la **même application** sur **tous les devices**, **partout** et de manière **performante**.
