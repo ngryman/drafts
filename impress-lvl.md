@@ -41,12 +41,14 @@
 - Adaptif → Responsive
 - Le meme code pour tous les ecrans.
 - Layout flexible.
+- Ne répond que partiellement à la problèmatique.
 
 ### Explosions des images
 
 - 500 M+ de photos uploadees par jour [[1]]
   - croissance exponentielle
 - 60% du poids d'une page sont des images [[3]]
+  - Peut varier enormement selon les sites. Nous verrons plus tard en détail ?
 - En 3 ans, le poids des pages a plus que doublé. [[2]]
 
 [1]: http://fr.slideshare.net/kleinerperkins/kpcb-internet-trends-2013
@@ -55,12 +57,19 @@
 
 ### Problematique des images
 
-- Etat actuel des images: images adaptives.
+- Etat actuel des images
+  - images adaptives **au mieux**.
+  - mauvaise utilisation du cache [1]
+  - resize souvent manuel, ou automatique, faible qualité
+  - mauvais choix de compression pour JPEG
+  - pas d'adaptation aux nouveaux formats émergeants (WebP).
 - graphique : ligne droite des resolutions, approximation avec des rectangle
   - on peut considerer la droite comme une infinite de resolutions.
   - comme upscaling est mauvais, approximation par le haut.
   - aire entre la droite et le rectangle represente la perte.
 - but : image flexibles.
+
+[1]: http://httparchive.org/interesting.php#caching
 
 - Solution
   - Calcul du cout par image moyen
