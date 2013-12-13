@@ -69,6 +69,7 @@
  - a la main (avantage, inconveniant)
    - demande du temps
    - en general bacler (pas de sharpening, etc...)
+     - voir carrément double encodage: ouverture, resizing, sauvarde.
    - pas scalable
    - pas adapte au changement
  - phase de build (avantage, inconveniant)
@@ -79,8 +80,7 @@
    - standard qui emerge RESS: http://mobile.smashingmagazine.com/2013/10/08/responsive-website-design-with-ress/
    - services sur le cloud
    
-   - dans les 2 premiers cars: DOUBLE RESIZING (source + navigateur) -> dégradation forte de la qualité de l'image.
-     - un décodate / recodage supplémentaire sur une image resizée.
+   - dans les 2 premiers cas: DOUBLE RESIZING (source + navigateur) -> dégradation forte de la qualité de l'image.
      - une qualité de resizing divergeante selon le navigateur.
  
 ## idee
