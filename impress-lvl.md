@@ -34,7 +34,7 @@
 
 ## Problematique
 
-==> Accéder à la **même application** sur **tous les devices**, de **n'importe où** et de manière **performante**.
+==> Accéder à la **même application** sur **tous les devices**, **partout** et de manière **performante**.
 
 ### Responsive design
 
