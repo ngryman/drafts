@@ -74,10 +74,12 @@ http://royal.pingdom.com/2011/11/21/web-pages-getting-bloated-here-is-why/
 
 - Etat actuel des images
   - images adaptives **au mieux**.
-  - mauvaise utilisation du cache [1]
+  - mauvaise utilisation du cache [[1]]
   - resize souvent manuel, ou automatique, faible qualité
   - mauvais choix de compression pour JPEG
   - pas d'adaptation aux nouveaux formats émergeants (WebP).
+  
+## Reponse partielle du responsive design
 - graphique : ligne droite des resolutions, approximation avec des rectangle
   - on peut considerer la droite comme une infinite de resolutions.
   - comme upscaling est mauvais, approximation par le haut.
