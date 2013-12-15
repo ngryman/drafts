@@ -44,8 +44,8 @@
   - reseau (3G)
   - batterie
 - Pour l'utilisateur, la performance se résume:
-  - au temps d'attente après chaque action
-  - a la fluidité de la UI.
+  - au temps d'attente après chaque action (chargement initial, changement de page, changements UI).
+  - a la fluidité visuelle de la UI.
 
 http://www.globaldots.com/how-website-speed-affects-conversion-rates/
 http://www.globaldots.com/10-reasons-to-speed-up-your-website/
