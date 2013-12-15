@@ -203,6 +203,11 @@ Pour simplifier, moyenne d'une note qui peut dépendre selon l'implémentation /
 ### Peut-on arriver à 5/5?
 
 - Oui, solution sur le cloud.
+- PRENSENTATION des concurrents
+
+### Peut-on arriver a 6/5?
+
+- Oui: RIBS!
 
 
 - Etat actuel des images
