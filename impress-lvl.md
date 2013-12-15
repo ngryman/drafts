@@ -1,10 +1,10 @@
 ## Contexte
 
-### HTML5
+### HTML5: la 3eme bulle Internet
 
 - http://www.evolutionoftheweb.com/?hl=fr#/evolution/day
 - fin 2010
-- La fin du HTML versionne, le debut d'une nouvelle ere
+- La fin du HTML versionne, le debut d'une nouvelle ere pour les technologies Web
   - cycle de developpement des navigateurs hyper accelere (Firefox: 15 jours, Chrome: 15/30 jours)
   - fin du bridage technologique de IE
   - 3D, canvas, acceleration materielle
@@ -49,18 +49,20 @@ http://www.globaldots.com/10-reasons-to-speed-up-your-website/
 
 ==> Accéder à la **même application** sur **tous les devices**, **partout** et de manière **performante**.
 
-### Responsive design
+### Une solution (partielle): responsive design
 
 - Adaptif → Responsive
+  - sites mobiles / desktop → mêmes sites.
 - Le meme code pour tous les ecrans.
 - Layout flexible.
 - Ne répond que partiellement à la problèmatique.
+  - picture et srcset.
 
 ### Explosions des images
 
 - En 3 ans, le poids des pages a plus que doublé. [[2]]
-- 60% du poids d'une page sont des images [[3]]
-  - Peut varier enormement selon les sites. Nous verrons plus tard en détail ?
+- Depuis l'an dernier, le poids moyen d'une page est passé de 1MB a 1.5MB [[4]]
+- 60% du poids d'une page sont des images, et c'est augmentation [[3]]
 - 500 M+ de photos uploadees par jour [[1]]
   - croissance exponentielle
 - Répartition:
@@ -71,10 +73,15 @@ http://www.globaldots.com/10-reasons-to-speed-up-your-website/
 [1]: http://fr.slideshare.net/kleinerperkins/kpcb-internet-trends-2013
 [2]: http://httparchive.org/compare.php
 [3]: http://httparchive.org/interesting.php#bytesperpage
+[4]: http://mobile.smashingmagazine.com/2013/10/24/automate-your-responsive-images-with-mobify-js
 
 http://royal.pingdom.com/2011/11/21/web-pages-getting-bloated-here-is-why/
 
 ### Problematique des images
+
+Reprend la problematique initiale: Servir des images sur **tous les devices**, **partout** et de manière **performante**.
+
+### Solutions existantes
 
 - Etat actuel des images
   - images adaptives **au mieux**.
