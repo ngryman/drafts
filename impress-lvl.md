@@ -1,20 +1,6 @@
 ## Contexte
 
-### HTML5: la 3eme bulle Internet
-
-- http://www.evolutionoftheweb.com/?hl=fr#/evolution/day
-- fin 2010
-- La fin du HTML versionne, le debut d'une nouvelle ere pour les technologies Web
-  - cycle de developpement des navigateurs hyper accelere (Firefox: 15 jours, Chrome: 15/30 jours)
-  - fin du bridage technologique de IE
-  - 3D, canvas, acceleration materielle
-  - JavaScript 4e language le plus utilise au monde [[1]]
-- cross platform par excellence
-- propulse par les mobiles et particulierement l'iPhone.
-
-[1]: http://langpop.com
-
-### # de devices et Internet
+### Nombre de devices et Internet
 
 - 16% du traffic sont des tablettes / mobiles [[1]]
 - Dans certains pays, le mobile est la seule maniere d'accéder à Internet.
@@ -54,26 +40,42 @@ http://www.globaldots.com/10-reasons-to-speed-up-your-website/
 
 ==> Accéder à la **même application** sur **tous les devices**, **partout** et de manière **performante**.
 
-### Une solution (partielle): responsive design
+## Solutions existantes
+
+### HTML5 vs natif
+
+- http://www.evolutionoftheweb.com/?hl=fr#/evolution/day
+- fin 2010
+- La fin du HTML versionne, le debut d'une nouvelle ere pour les technologies Web
+  - cycle de developpement des navigateurs hyper accelere (Firefox: 15 jours, Chrome: 15/30 jours)
+  - fin du bridage technologique de IE
+  - 3D, canvas, acceleration materielle
+  - JavaScript 4e language le plus utilise au monde [[1]]
+- cross platform par excellence
+- propulse par les mobiles et particulierement l'iPhone.
+
+[1]: http://langpop.com
+
+### Responsive design
 
 - Adaptif → Responsive
   - sites mobiles / desktop → mêmes sites.
 - Le meme code pour tous les ecrans.
 - Layout flexible.
-- Ne répond que partiellement à la problèmatique.
-  - picture et srcset.
 
-### Explosions des images
+## Les images
 
+- 60% du poids d'une page sont des images, et c'est en augmentation [[3]]
 - En 3 ans, le poids des pages a plus que doublé. [[2]]
 - Depuis l'an dernier, le poids moyen d'une page est passé de 1MB a 1.5MB [[4]]
-- 60% du poids d'une page sont des images, et c'est augmentation [[3]]
 - 500 M+ de photos uploadees par jour [[1]]
   - croissance exponentielle
 - Répartition:
   - 50% sont des JPEG, donc photos.
   - 25% sont des GIF, ui et internet memes.
   - 25% sont des PNG, ui.
+  
+Reprend la problematique initiale: Servir des images sur **tous les devices**, **partout** et de manière **performante**.
 
 [1]: http://fr.slideshare.net/kleinerperkins/kpcb-internet-trends-2013
 [2]: http://httparchive.org/compare.php
@@ -82,11 +84,125 @@ http://www.globaldots.com/10-reasons-to-speed-up-your-website/
 
 http://royal.pingdom.com/2011/11/21/web-pages-getting-bloated-here-is-why/
 
-### Problematique des images
+## Problématique
 
-Reprend la problematique initiale: Servir des images sur **tous les devices**, **partout** et de manière **performante**.
+==> Service les **mêmes images** sur **tous les devices**, **partout** et de manière **performante**.
 
-### Solutions existantes
+- graphique : ligne droite des resolutions, approximation avec des rectangle
+  - on peut considerer la droite comme une infinite de resolutions.
+  - comme upscaling est mauvais, approximation par le haut.
+  - aire entre la droite et le rectangle represente la perte.
+  
+## Solutions existantes
+
+### Responsive design
+
+- Ne répond que partiellement à la problèmatique.
+  - picture et srcset.
+- Implique une gestion des images côté dev.
+- graphique : ligne droite des resolutions, approximation avec des rectangle
+  - on peut considerer la droite comme une infinite de resolutions.
+  - comme upscaling est mauvais, approximation par le haut.
+  - aire entre la droite et le rectangle represente la perte.
+- On va se fixer un idéal : images flexibles.
+
+## Solutions actuelles
+
+On va séparer en deux:
+  - Entrepise, total sur 10
+  - Utilisateur, total sur 10
+Pour simplifier, moyenne d'une note qui peut dépendre selon l'implémentation / application et autres.
+
+### Aucune
+
+- Aucun traitement particulier
+- Entrepsie
+   - Installation: 5/5 - Rien
+   - Temps: 5/5 - Rien
+   - Changement: 5/5 - Rien
+   - Maintenance: 5/5 - Rien
+   - Scalability: 5/5 - Rien
+   - Prix: 3/5 - Frais de bande passante, processing serveur
+- Utilisateur
+  - Qualite: 4/5 - La plus haute résolution possible, donc bon (on va voir que ça dépend des navigateurs)
+  - Attente: 0/5 - le pire scénario
+  - Fluidité: 2/5 - dépend de l'application
+- TOTAL:
+  - Entreprise: 4.5/5 (28/30)
+  - Utilisateur: 2/5 (0-6/15)
+  - **3/5** (6.5/10)
+- Visuel courbe (adaptif)
+- Commentaire: solution la plus avantageuse pour l'entreprise.
+
+### Manuelle
+
+- Resize dans Photoshop ou autres
+- Entreprise:
+  - Installation: 4/5 - En général seulement un logiciel, souvent déjà présent
+  - Temps: 0/5 - Chronophage
+  - Changement: 0/5 - Pas dutout adapté au changement
+  - Maintenance: 5/5 - Rien à maintenir
+  - Scalability: 0/5 - Terrible
+  - Prix: 4/5 - éventuelles licences logicielles
+- Utilisateur
+  - Qualite: 4/5 - Dépend de comment c'est fait
+    - En général mal (de mon expèrience)
+      - Resizing fait de manière naive: perte de qulité des images
+      - Souvent ré-encodage de l'image: ouverture -> resize -> sauvegarde.
+      - Double resizing (source + navigateur) -> dégradation forte de la qualité
+  - Attente: 3/5 - Dégradation gracieuse implique une perte plus on s'éloigne du breakpoint
+    - Breakpoint en général fait de manière intelligente, donc moins de monde s'éloigne.
+  - Fluidité: 4/5 - Pas toujours pixel perfect
+- TOTAL:
+  - Entreprise: 2/5 (13/30)
+  - Utilisateur: 3.5/5 (11/15)
+  - **2.5/5** (5.5/10)
+- Visuel courbe (adaptif)
+
+### Asset pipeline (phase de build)
+
+- Via grunt ou autres
+- Avantages: automatisé
+- Installation: 1/5 - en general compose d'une tool chain qu'il faut configurer, déployer, etc...
+- Temps: 3/5 - Une fois en place, le temps de resizing est presque négligeable. Cependant:
+  - Selon le nombre d'images et la taille du projet peu prendre du temps machine.
+- Changement: 4/5 - En général pas trop compliqué d'ajouter de nouveaux formats.
+- Maintenance: 3/5 - Dépend encore une fois de la tool chain / projet. Peu poser problème lors de changements d'environnements, ...
+- Scalability: 4/5 - Bon
+- Prix: 4/5 - en général solutions open source, on perd tout de meme de la bande passante
+- Utilisateur
+  - Qualite: 3/5 - Dépend de la configuration des outils, moins bon que l'oeil humain
+  - Attente: 4/5 - Plus car outils qui optimisent les images sont communs.
+  - Fluidité: 4/5 - Même que la précédente.
+- TOTAL:
+  - Entreprise: 3/5 (19/30)
+  - Utilisateur: 3.5/5 (11/15)
+  - **3/5** (6.5/10)
+- Visuel courbe (adaptif)
+
+### On Demand
+
+- Via solutions open sources
+- Installation: 1/5 - aussi chiant que l'asset pipeline.
+- Temps: 5/5 - Automatisé, on demand only.
+- Changement: 5/5 - Rien
+- Maintenance: 3/5 - Dépend de la configuration / serveur / projet. Peu poser problème lors de changements d'environnements, ...
+- Scalability: 4/5 - Bon
+- Prix: 5/5 - en général solutions open source
+- Utilisateur
+  - Qualite: 4/5 - Dépend de comment c'est fait
+  - Attente: 4/5 - Optimale, mais dépend de comment le cache et CDN sont configuré
+  - Fluidité: 5/5 - Pixel perfect.
+- TOTAL:
+  - Entreprise: 4/5 (23/30)
+  - Utilisateur: 4.5/5 (13/15)
+  - **4/5** (4.5/10)
+- Visuel courbe (adaptif)
+- Visuel courbe (parfaite/fluide)
+
+### Peut-on arriver à 5/5?
+
+
 
 - Etat actuel des images
   - images adaptives **au mieux**.
@@ -94,14 +210,6 @@ Reprend la problematique initiale: Servir des images sur **tous les devices**, *
   - resize souvent manuel, ou automatique, faible qualité
   - mauvais choix de compression pour JPEG
   - pas d'adaptation aux nouveaux formats émergeants (WebP).
-  
-### Reponse partielle du responsive design
-
-- graphique : ligne droite des resolutions, approximation avec des rectangle
-  - on peut considerer la droite comme une infinite de resolutions.
-  - comme upscaling est mauvais, approximation par le haut.
-  - aire entre la droite et le rectangle represente la perte.
-- but : image flexibles.
 
 [1]: http://httparchive.org/interesting.php#caching
 
