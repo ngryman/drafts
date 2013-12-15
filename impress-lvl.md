@@ -200,14 +200,37 @@ Pour simplifier, moyenne d'une note qui peut dépendre selon l'implémentation /
 - Visuel courbe (adaptif)
 - Visuel courbe (parfaite/fluide)
 
-### Peut-on arriver à 5/5?
+### Peut-on arriver à plus?
 
 - Oui, solution sur le cloud.
 - PRENSENTATION des concurrents
 
-### Peut-on arriver a 6/5?
+### Peut-on arriver a 5/5, score parfait?
 
 - Oui: RIBS!
+- Mais d'abord...
+
+### Profils clients
+
+## RIBS
+
+### Réponse
+
+### Avantages concurrentiels
+
+### Mais ... peut-on arriver à 6/5?
+
+- Oui: use the source Luc.
+
+## Open source
+
+- Communaute enorme (chiffre), a suivi la tendance Web 2.0
+  - Web 2.0 = contenu créé par les gens
+- Comme dans toute communauté il y a:
+  - des leaders (stars)
+  - des modes
+
+
 
 
 - Etat actuel des images
