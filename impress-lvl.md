@@ -185,23 +185,24 @@ Pour simplifier, moyenne d'une note qui peut dépendre selon l'implémentation /
 - Via solutions open sources
 - Installation: 1/5 - aussi chiant que l'asset pipeline.
 - Temps: 5/5 - Automatisé, on demand only.
-- Changement: 5/5 - Rien
+- Changement: 3/5 - Changer les configuration, tester.
 - Maintenance: 3/5 - Dépend de la configuration / serveur / projet. Peu poser problème lors de changements d'environnements, ...
 - Scalability: 4/5 - Bon
 - Prix: 5/5 - en général solutions open source
 - Utilisateur
-  - Qualite: 4/5 - Dépend de comment c'est fait
+  - Qualite: 3/5 - Dépend de comment c'est fait
   - Attente: 4/5 - Optimale, mais dépend de comment le cache et CDN sont configuré
   - Fluidité: 5/5 - Pixel perfect.
 - TOTAL:
-  - Entreprise: 4/5 (23/30)
-  - Utilisateur: 4.5/5 (13/15)
-  - **4/5** (4.5/10)
+  - Entreprise: 3.5/5 (21/30)
+  - Utilisateur: 4/5 (12/15)
+  - **3.5/5** (7.5/10)
 - Visuel courbe (adaptif)
 - Visuel courbe (parfaite/fluide)
 
 ### Peut-on arriver à 5/5?
 
+- Oui, solution sur le cloud.
 
 
 - Etat actuel des images
