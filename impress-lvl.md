@@ -14,9 +14,10 @@
 
 [1]: http://langpop.com
 
-### Explosion de devices
+### # de devices et Internet
 
 - 16% du traffic sont des tablettes / mobiles [[1]]
+- Dans certains pays, le mobile est la seule maniere d'accéder à Internet.
 - croissance x8 des mobiles par rapport au desktop [[2]]
 - dans les 4 prochaines annees, la croissance est prevue a x26 [[2]]
 - android domine 80% du marche [[4]]
@@ -32,15 +33,19 @@
 
 > It’s time for us to treat performance as an essential design feature, not just as a technical best practice. - Brad Frost
 
-- Histoire du mec qui a optimiser son site et qui a vu ses performances chutter
+- Histoire du mec qui a optimise son site et qui a vu ses performances chutter
   - apres investigation il s'est rendu compte que le nombre de visiteurs des pays en vois de developpement avait explose car son site ne prenait plus que quelques secondes a charger sur leur reseau, au lieu de plus d'une minute.
-  
+
+- Dans un secteur ultra concurrentiel, la performance permet egalement de se demarquer.
 - Impacte les entreprises: image perfmatters
   - utilisateurs sur mobiles sont impatients
 - Impacte les utilisateurs
   - meilleure experience
   - reseau (3G)
   - batterie
+- Pour l'utilisateur, la performance se résume:
+  - au temps d'attente après chaque action
+  - a la fluidité de la UI.
 
 http://www.globaldots.com/how-website-speed-affects-conversion-rates/
 http://www.globaldots.com/10-reasons-to-speed-up-your-website/
