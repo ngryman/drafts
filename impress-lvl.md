@@ -220,7 +220,7 @@ Pour simplifier, moyenne d'une note qui peut dépendre selon l'implémentation /
 
 ### Mais ... peut-on arriver à 6/5?
 
-- Oui: use the source Luc.
+- Oui: use the source Luc. (avec Yoda from Impress.js).
 
 ## Open source
 
