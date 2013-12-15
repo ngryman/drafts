@@ -222,13 +222,14 @@ Pour simplifier, moyenne d'une note qui peut dépendre selon l'implémentation /
 
 - Oui: use the source Luc. (avec Yoda from Impress.js).
 
-## Open source
+## Open source (effet vitesse lumière sur le slide)
 
 - Communaute enorme (chiffre), a suivi la tendance Web 2.0
   - Web 2.0 = contenu créé par les gens
 - Comme dans toute communauté il y a:
   - des leaders (stars)
   - des modes
+- Communaute de Nodejs
 
 
 
