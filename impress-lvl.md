@@ -74,8 +74,6 @@ http://www.globaldots.com/10-reasons-to-speed-up-your-website/
   - 50% sont des JPEG, donc photos.
   - 25% sont des GIF, ui et internet memes.
   - 25% sont des PNG, ui.
-  
-Reprend la problematique initiale: Servir des images sur **tous les devices**, **partout** et de manière **performante**.
 
 [1]: http://fr.slideshare.net/kleinerperkins/kpcb-internet-trends-2013
 [2]: http://httparchive.org/compare.php
@@ -123,8 +121,6 @@ http://royal.pingdom.com/2011/11/21/web-pages-getting-bloated-here-is-why/
   - Particuliers (qui communiquent)
     - Blogs: Tumblr, Wordpress, perso
     - Portfolios: 500px
-
-- 3/4 profils clients
 
 ## Solutions actuelles
 
@@ -242,7 +238,7 @@ Pour simplifier, moyenne d'une note qui peut dépendre selon l'implémentation /
 
 ### Mais ... peut-on arriver à 6/5?
 
-- Oui: use the source Luc. (avec Yoda from Impress.js).
+- Oui: use the source Luke. (avec Yoda from Impress.js).
 
 ## Open source (effet vitesse lumière sur le slide)
 
