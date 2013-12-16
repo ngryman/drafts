@@ -210,7 +210,7 @@ Pour simplifier, moyenne d'une note qui peut dépendre selon l'implémentation /
 
 ### Peut-on arriver à plus?
 
-- Oui, solution sur le cloud.
+- Oui, solution sur le cloud: SaaS: Software as a Service
 - PRENSENTATION des concurrents
   - TODO: add note en fonction des profils
 
