@@ -270,6 +270,8 @@ Pour simplifier, moyenne d'une note qui peut dépendre selon l'implémentation /
 - Vecteurs du Web
 - Conferences ?
 
+## Estime des revenus
+
 ### Mais ... peut-on arriver à 6/5?
 
 - Oui: use the source Luke. (avec Yoda from Impress.js).
