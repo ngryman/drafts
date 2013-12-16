@@ -106,6 +106,10 @@ http://royal.pingdom.com/2011/11/21/web-pages-getting-bloated-here-is-why/
   - aire entre la droite et le rectangle represente la perte.
 - On va se fixer un idéal : images flexibles.
 
+## Qui ça intéresse?
+
+- 3/4 profils clients
+
 ## Solutions actuelles
 
 On va séparer en deux:
@@ -131,6 +135,7 @@ Pour simplifier, moyenne d'une note qui peut dépendre selon l'implémentation /
   - Entreprise: 4.5/5 (28/30)
   - Utilisateur: 2/5 (0-6/15)
   - **3/5** (6.5/10)
+  - TODO: add note en fonction des profils
 - Visuel courbe (adaptif)
 - Commentaire: solution la plus avantageuse pour l'entreprise.
 
@@ -157,6 +162,7 @@ Pour simplifier, moyenne d'une note qui peut dépendre selon l'implémentation /
   - Entreprise: 2/5 (13/30)
   - Utilisateur: 3.5/5 (11/15)
   - **2.5/5** (5.5/10)
+  - TODO: add note en fonction des profils
 - Visuel courbe (adaptif)
 
 ### Asset pipeline (phase de build)
@@ -178,6 +184,7 @@ Pour simplifier, moyenne d'une note qui peut dépendre selon l'implémentation /
   - Entreprise: 3/5 (19/30)
   - Utilisateur: 3.5/5 (11/15)
   - **3/5** (6.5/10)
+  - TODO: add note en fonction des profils
 - Visuel courbe (adaptif)
 
 ### On Demand
@@ -197,6 +204,7 @@ Pour simplifier, moyenne d'une note qui peut dépendre selon l'implémentation /
   - Entreprise: 3.5/5 (21/30)
   - Utilisateur: 4/5 (12/15)
   - **3.5/5** (7.5/10)
+  - TODO: add note en fonction des profils
 - Visuel courbe (adaptif)
 - Visuel courbe (parfaite/fluide)
 
@@ -204,13 +212,11 @@ Pour simplifier, moyenne d'une note qui peut dépendre selon l'implémentation /
 
 - Oui, solution sur le cloud.
 - PRENSENTATION des concurrents
+  - TODO: add note en fonction des profils
 
-### Peut-on arriver a 5/5, score parfait?
+### Peut-on arriver au score parfait pour tous?
 
 - Oui: RIBS!
-- Mais d'abord...
-
-### Profils clients
 
 ## RIBS
 
