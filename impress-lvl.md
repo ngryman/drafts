@@ -236,6 +236,8 @@ Pour simplifier, moyenne d'une note qui peut dépendre selon l'implémentation /
   - des leaders (stars)
   - des modes
 - Communaute de Nodejs
+- Attirer les dev
+  - API sexy, etc...
 
 
 
