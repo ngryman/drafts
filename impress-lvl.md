@@ -74,6 +74,7 @@ http://www.globaldots.com/10-reasons-to-speed-up-your-website/
   - 50% sont des JPEG, donc photos.
   - 25% sont des GIF, ui et internet memes.
   - 25% sont des PNG, ui.
+- Graphique de la composition des images de 3 projets LVL: HNIC, AMC, 
 
 [1]: http://fr.slideshare.net/kleinerperkins/kpcb-internet-trends-2013
 [2]: http://httparchive.org/compare.php
@@ -223,6 +224,24 @@ Pour simplifier, moyenne d'une note qui peut dépendre selon l'implémentation /
 ### Peut-on arriver à plus?
 
 - Oui, solution sur le cloud: SaaS: Software as a Service
+- Installation: 5/5 - Pratiquement rien.
+- Temps: 5/5 - Rien.
+- Changement: 5/5 - Parfait.
+- Maintenance: 5/5 - Parfait.
+- Scalability: 5/5 - Parfait.
+- Prix: 5/5 - Meilleur compromis.
+- Utilisateur
+  - Qualite: 5/5 - Le meilleur possible.
+  - Attente: 5/5 - Le meilleur possible.
+  - Fluidité: 5/5 - Le meilleur possible.
+- TOTAL:
+  - Entreprise: 5/5 (30/30)
+  - Utilisateur: 5/5 (15/15)
+  - **5/5** (10/10)
+  - TODO: add note en fonction des profils
+- Visuel courbe (adaptif)
+- Visuel courbe (parfaite/fluide)
+
 - PRENSENTATION des concurrents
   - TODO: add note en fonction des profils
 
@@ -269,6 +288,7 @@ Pour simplifier, moyenne d'une note qui peut dépendre selon l'implémentation /
   - Performance
   - Qualité
   - Scalability
+  - Rendre le Web meilleur B]
   
 - Solution
   - Calcul du cout par image moyen
