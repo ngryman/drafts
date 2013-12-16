@@ -237,7 +237,7 @@ Pour simplifier, moyenne d'une note qui peut dépendre selon l'implémentation /
   - des modes
 - Communaute de Nodejs
 - Attirer les dev
-  - D'abord les comprendre
+  - D'abord les comprendre (ça tombe bien j'en suis un)
   - API sexy, etc...
 
 
