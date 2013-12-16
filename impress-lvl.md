@@ -257,6 +257,8 @@ Pour simplifier, moyenne d'une note qui peut dépendre selon l'implémentation /
 
 ### Avantages concurrentiels
 
+- A CE POINT, ON A CONVAINCU QUE NOTRE PRODUIT EST LE MEILLEUR.
+
 ### Mais ... peut-on arriver à 6/5?
 
 - Oui: use the source Luke. (avec Yoda from Impress.js).
