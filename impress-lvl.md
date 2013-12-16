@@ -244,9 +244,6 @@ Pour simplifier, moyenne d'une note qui peut dépendre selon l'implémentation /
 
 - A CE POINT, ON A PRESENTE QU'ON CHOISIT LA MEILLEURE SOLUTION POSSIBLE QUI REPOND LE MIEUX AUX CLIENTS POTENTIELS. IL NE RESTE PLUS QU'A DEMONTRER NOTRE AVENTAGE CONCURRENTIEL.
 
-- PRENSENTATION des concurrents
-  - TODO: add note en fonction des profils
-
 ### Peut-on arriver au score parfait pour tous?
 
 - Oui: RIBS!
@@ -255,9 +252,23 @@ Pour simplifier, moyenne d'une note qui peut dépendre selon l'implémentation /
 
 ### Réponse
 
+### Concurrents
+
+- TODO: note en fonction des profils
+
 ### Avantages concurrentiels
 
 - A CE POINT, ON A CONVAINCU QUE NOTRE PRODUIT EST LE MEILLEUR.
+
+- EXPLIQUER LE CONTEXTE, QUE LES CONCURRENTS ET LA PRESSE ONT DEJA COMMUNIQUE SUR LE SUJET. IL NE RESTE PLUS QU'A NOUS FAIRE CONNAITRE.
+
+## Comment se faire connaitre ?
+
+- Presse specialisee
+- Beta avec cles beta
+- Reseaux sociaux
+- Vecteurs du Web
+- Conferences ?
 
 ### Mais ... peut-on arriver à 6/5?
 
