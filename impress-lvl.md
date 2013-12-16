@@ -112,17 +112,17 @@ http://royal.pingdom.com/2011/11/21/web-pages-getting-bloated-here-is-why/
   - Marche tres vaste.
   - "Inepuisable"
 - Qui?
-  - Studio de developpements (LVL-like) (qui fabriquent)
+  - Studio de developpements (LVL-like) (qui concoivent)
     - E-commerce
     - Vitrines
     - Gouvernements
     - Applications
   - Saas (qui vendent)
-    - Shopify
-    - Soundclound
+    - Social networks: Facebook
+    - Services: Shopify, Soundcloud, Medium
   - Particuliers (qui communiquent)
-    - Blogs
-    - Portfolios
+    - Blogs: Tumblr, Wordpress, perso
+    - Portfolios: 500px
 
 - 3/4 profils clients
 
