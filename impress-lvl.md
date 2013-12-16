@@ -93,7 +93,7 @@ http://royal.pingdom.com/2011/11/21/web-pages-getting-bloated-here-is-why/
   
 ## Solutions existantes
 
-### Responsive design
+### Responsive Web Design (RWD)
 
 - Ne répond que partiellement à la problèmatique.
   - picture et srcset.
