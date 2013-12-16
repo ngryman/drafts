@@ -242,6 +242,8 @@ Pour simplifier, moyenne d'une note qui peut dépendre selon l'implémentation /
 - Visuel courbe (adaptif)
 - Visuel courbe (parfaite/fluide)
 
+- A CE POINT, ON A PRESENTE QU'ON CHOISIT LA MEILLEURE SOLUTION POSSIBLE QUI REPOND LE MIEUX AUX CLIENTS POTENTIELS. IL NE RESTE PLUS QU'A DEMONTRER NOTRE AVENTAGE CONCURRENTIEL.
+
 - PRENSENTATION des concurrents
   - TODO: add note en fonction des profils
 
