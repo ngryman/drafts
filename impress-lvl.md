@@ -239,6 +239,7 @@ Pour simplifier, moyenne d'une note qui peut dépendre selon l'implémentation /
 - Attirer les dev
   - D'abord les comprendre (ça tombe bien j'en suis un)
   - API sexy, etc...
+  - seduire les developpeurs directement, et non les entreprises: se sont eux qui font les choix technologiques
 
 
 
