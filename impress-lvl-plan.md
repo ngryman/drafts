@@ -1,5 +1,5 @@
 - Web = technologie != de site Internet
-- SaaS = Software as a Service
+* - SaaS = Software as a Service
 - seduire les developpeurs directement, et non les entreprises
   - se sont eux qui font les choix technologiques
 - offrir le meilleur resizing, constant pour tous les navigateurs:
@@ -70,7 +70,7 @@
  - aucun, resize navigateur
  - a la main (avantage, inconveniant)
    - demande du temps
-   - en general bacler (pas de sharpening, etc...)
+   - en general bacle (pas de sharpening, etc...)
      - voir carrément double encodage: ouverture, resizing, sauvarde.
    - pas scalable
    - pas adapte au changement
