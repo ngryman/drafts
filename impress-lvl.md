@@ -15,6 +15,10 @@
 [3]: http://developer.android.com/about/index.html
 [4]: http://appleinsider.com/articles/13/11/12/idc-data-shows-66-of-androids-81-smartphone-share-are-junk-phones-selling-for-215
 
+### Une nouvelle bulle?
+
+- Expliquer la croissance des sites Internet et applications.
+
 ### Performance as design
 
 > It’s time for us to treat performance as an essential design feature, not just as a technical best practice. - Brad Frost
@@ -39,6 +43,8 @@ http://www.globaldots.com/10-reasons-to-speed-up-your-website/
 ## Problematique
 
 ==> Accéder à la **même application** sur **tous les devices**, **partout** et de manière **performante**.
+- avant le cross platform signifier cross OS, cross hardware.
+- maintenant cela signifie egalement cross screen, cross input.
 
 ## Solutions existantes
 
