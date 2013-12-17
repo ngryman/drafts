@@ -286,7 +286,7 @@ Pour simplifier, moyenne d'une note qui peut dépendre selon l'implémentation /
 
 - Qu'est-ce que c'est ?
 - Ne pas voir l'open source comme dans les annees 2000, c'est aussi...
-- Une communaute enorme (Github seulement: 3.5M utilisateurs), a suivi la tendance Web 2.0
+- Une communaute enorme (Github seulement: 3.5M utilisateurs mi 2013), a suivi la tendance Web 2.0
   - Web 2.0 = contenu créé par les gens
 - Comme dans toute communauté il y a:
   - des leaders (stars)
