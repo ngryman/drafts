@@ -43,7 +43,7 @@ http://www.globaldots.com/10-reasons-to-speed-up-your-website/
 ## Problematique
 
 ==> Accéder à la **même application** sur **tous les devices**, **partout** et de manière **performante**.
-- avant le cross platform signifier cross OS, cross hardware.
+- avant le cross platform signifiait cross OS, cross hardware.
 - maintenant cela signifie egalement cross screen, cross input.
 
 ## Solutions existantes
