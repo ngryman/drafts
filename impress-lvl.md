@@ -252,7 +252,8 @@ Pour simplifier, moyenne d'une note qui peut dépendre selon l'implémentation /
 
 ### Peut-on arriver au score parfait pour tous?
 
-- Oui: RIBS!
+- RIBS: Responsive Images Backed Server-side
+- 
 
 ## RIBS
 
