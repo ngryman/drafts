@@ -284,9 +284,13 @@ Pour simplifier, moyenne d'une note qui peut dépendre selon l'implémentation /
 
 ## Estime des revenus
 
-### Mais ... peut-on arriver à 6/5?
+## Projections financieres
 
-- Oui: use the source Luke. (avec Yoda from Impress.js).
+## Merci
+
+### Oh ! Attendez j'ai oublié quelque chose ...
+
+- Use the source Luke. (avec Yoda from Impress.js).
 
 ## Open source (effet vitesse lumière sur le slide)
 
