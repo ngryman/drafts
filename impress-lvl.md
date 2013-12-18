@@ -256,7 +256,12 @@ Pour simplifier, moyenne d'une note qui peut dépendre selon l'implémentation /
 
 ## RIBS
 
+- Processing d'images + CDN
+- Hautes performances
+
 ### Réponse
+
+- Prix faible
 
 ### Concurrents
 
@@ -275,6 +280,7 @@ Pour simplifier, moyenne d'une note qui peut dépendre selon l'implémentation /
 - Reseaux sociaux
 - Vecteurs du Web
 - Conferences ?
+- Kickstarter
 
 ## Estime des revenus
 
