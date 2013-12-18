@@ -106,24 +106,6 @@ http://royal.pingdom.com/2011/11/21/web-pages-getting-bloated-here-is-why/
   - aire entre la droite et le rectangle represente la perte.
 - On va se fixer un idéal : images flexibles.
 
-## Qui ça intéresse?
-
-- Potentiellement tout le monde qui cree des applications!
-  - Marche tres vaste.
-  - "Inepuisable"
-- Qui?
-  - Studio de developpements (LVL-like) (qui concoivent)
-    - E-commerce
-    - Vitrines
-    - Gouvernements
-    - Applications
-  - Saas (qui vendent)
-    - Social networks: Facebook
-    - Services: Shopify, Soundcloud, Medium
-  - Particuliers (qui communiquent)
-    - Blogs: Tumblr, Wordpress, perso
-    - Portfolios: 500px
-
 ## Solutions actuelles
 
 On va séparer en deux:
