@@ -66,7 +66,7 @@ http://www.globaldots.com/10-reasons-to-speed-up-your-website/
 - Layout flexible.
 - Adapte au changement.
 
-## Les images
+## Oui mais... les images ?
 
 - 60% du poids d'une page sont des images, et c'est en augmentation [[3]]
 - En 3 ans, le poids des pages a plus que doublé. [[2]]
@@ -95,9 +95,7 @@ http://royal.pingdom.com/2011/11/21/web-pages-getting-bloated-here-is-why/
   - comme upscaling est mauvais, approximation par le haut.
   - aire entre la droite et le rectangle represente la perte.
   
-## Solutions existantes
-
-### Responsive Web Design (RWD)
+### Ce que le RWD ne resout pas...
 
 - Ne répond que partiellement à la problèmatique.
   - picture et srcset.
