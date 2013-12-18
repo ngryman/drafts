@@ -80,11 +80,12 @@ http://www.globaldots.com/10-reasons-to-speed-up-your-website/
 
 - Adaptif → Responsive
   - sites mobiles / desktop → mêmes sites.
-- Le meme code pour tous les ecrans.
+- Maintenabilité : Le meme code pour tous les ecrans.
 - Layout flexible.
 - Adapte au changement.
+- Communication: Une URL
 
-## Oui mais... les images ?
+## Pas si vite... les images ?
 
 - 60% du poids d'une page sont des images, et c'est en augmentation [[3]]
 - En 3 ans, le poids des pages a plus que doublé. [[2]]
