@@ -248,7 +248,10 @@ Pour simplifier, moyenne d'une note qui peut dépendre selon l'implémentation /
 ### Peut-on arriver au score parfait pour tous?
 
 - RIBS: Responsive Images Backed Server-side
-- 
+- RESS
+  - Responsive Design + Server Side Components
+  - Un sereur peut stocker, caculer et envoyer.
+  - Il peut egalement mutualiser: faire l'opération une fois pour tous.
 
 ## RIBS
 
