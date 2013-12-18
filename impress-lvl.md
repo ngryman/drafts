@@ -42,6 +42,24 @@ http://www.globaldots.com/10-reasons-to-speed-up-your-website/
 - avant le cross platform signifiait cross OS, cross hardware.
 - maintenant cela signifie egalement cross screen, cross input.
 
+## Qui ça intéresse?
+
+- Potentiellement tout le monde qui cree des applications!
+  - Marche tres vaste.
+  - "Inepuisable"
+- Qui?
+  - Studio de developpements (LVL-like) (qui concoivent)
+    - E-commerce
+    - Vitrines
+    - Gouvernements
+    - Applications
+  - Saas (qui vendent)
+    - Social networks: Facebook
+    - Services: Shopify, Soundcloud, Medium
+  - Particuliers (qui communiquent)
+    - Blogs: Tumblr, Wordpress, perso
+    - Portfolios: 500px
+
 ## Solutions existantes
 
 ### HTML5
