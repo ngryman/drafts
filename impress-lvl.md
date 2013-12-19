@@ -338,7 +338,7 @@ Oui !
 ## Risques potentiels
 
 - Propriété intellectuelle
-  - Licence LGPL
+  - Licences ! Ce n'est pas le far west.
 
 - Etat actuel des images
   - images adaptives **au mieux**.
