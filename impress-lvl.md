@@ -291,8 +291,6 @@ Oui !
 - Conferences ?
 - Kickstarter
 
-## Estime des revenus
-
 ## Projections financieres
 
 ## Merci
