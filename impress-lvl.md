@@ -83,7 +83,7 @@ http://www.globaldots.com/10-reasons-to-speed-up-your-website/
 - Maintenabilité : Le meme code pour tous les ecrans.
 - Layout flexible.
 - Adapte au changement.
-- Communication: Une URL
+- Communication: Une URL.
 
 ## Pas si vite... les images ?
 
