@@ -328,7 +328,11 @@ Oui !
 - Notoriété
 - Extensible
 - Stable, qualité supérieure
-  - Trouver des exemple de comparaison OS vs proprio
+  - Trouver des exemple de comparaison OS vs proprio:
+    - Chrome (Chromium) vs Internet Explorer
+    - Joyent vs Azure
+  - Le propriétaire est bridé, il peut marquer des points à son arrivée, mais sera vite dépassé par la vague de projet OS. On ne peut pas lutter contre des M de devs qui collaborent entre eux.
+  - Le modèle propriétaire devient même moins adapté dans certains secteurs : le Web en est l'exemple parfait.
 - Diversification
 
 ## Risques potentiels
