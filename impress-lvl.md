@@ -321,6 +321,10 @@ Oui !
 
 - Marketing
   - http://www.journaldunet.com/solutions/expert/43840/le-marketing--faiblesse-ou-force-de-l-open-source.shtml
+  - Exemple de Mozilla qui a pris des parts de marchés considérables a Internet Explorer.
+  - Apache
+  - MySQL
+  - ...
 - Notoriété
 - Extensible
 - Stable
