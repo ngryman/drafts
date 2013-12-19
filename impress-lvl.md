@@ -347,7 +347,7 @@ Oui !
   - Apache
   - MySQL
   - ...
-- Notoriété
+- Notoriété : l'image !
 - Extensible
 - Stable, qualité supérieure
   - Trouver des exemple de comparaison OS vs proprio:
@@ -369,6 +369,8 @@ Oui !
 ## Stratégies, à choisir (besoin de leur aide)
 
 - Dual-licensing
+  - Empeche la concurrence
+  - Bride l'OS
 - Closed-source puis open-source
 - Baseline + Advanced versions
 
