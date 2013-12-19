@@ -212,7 +212,7 @@ Pour simplifier, moyenne d'une note qui peut dépendre selon l'implémentation /
 - Scalability: 4/5 - Bon
 - Prix: 5/5 - en général solutions open source
 - Utilisateur
-  - Qualite: 3/5 - Dépend de comment c'est fait, offrir le meilleur resizing, constant pour tous les navigateurs (en générale optimisé pour la performance).
+  - Qualite: 3/5 - Dépend de comment c'est fait, offrir le meilleur resizing, constant pour tous les navigateurs (en générale optimisé pour la performance). Les navigateurs emploient differents types de resizing qui font que le resultat peut varier. De plus ils sont plus dans l'optique de choisir des algos performants que qualitatifs.
   - Attente: 4/5 - Optimale, mais dépend de comment le cache et CDN sont configuré
   - Fluidité: 5/5 - Pixel perfect.
 - TOTAL:
