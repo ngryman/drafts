@@ -370,9 +370,12 @@ Oui !
 
 - Dual-licensing
   - Empeche la concurrence
-  - Bride l'OS
+  - Bride l'OS, l'image.
 - Closed-source puis open-source
+  - Minimise les risques early
+  - Moins exposé
 - Baseline + Advanced versions
+  - Pour moi la meilleure balance
 
 http://oss-watch.ac.uk/resources/duallicence2
 
