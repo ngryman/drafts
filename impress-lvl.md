@@ -274,6 +274,7 @@ Oui !
 ### Avantages concurrentiels
 
 - Prix
+
 - Performances
 - Qualité
 
@@ -316,7 +317,25 @@ Oui !
   - seduire les developpeurs directement, et non les entreprises: se sont eux qui font les choix technologiques
 - C'est du community management, a grande echelle, par le code.
 
+## Nouveaux avantages
 
+- Notoriété
+- Extensible
+- Stable
+- Diversification
+
+## Possibilites
+
+- Dual-licensing
+- Closed-source puis open-source
+- Baseline + Advanced versions
+
+http://oss-watch.ac.uk/resources/duallicence2
+
+## Risques potentiels
+
+- Propriété intellectuelle
+  - Licence LGPL
 
 - Etat actuel des images
   - images adaptives **au mieux**.
