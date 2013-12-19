@@ -327,7 +327,8 @@ Oui !
   - ...
 - Notoriété
 - Extensible
-- Stable
+- Stable, qualité supérieure
+  - Trouver des exemple de comparaison OS vs proprio
 - Diversification
 
 ## Risques potentiels
