@@ -96,7 +96,7 @@ http://www.globaldots.com/10-reasons-to-speed-up-your-website/
   - 50% sont des JPEG, donc photos.
   - 25% sont des GIF, ui et internet memes.
   - 25% sont des PNG, ui.
-- Graphique de la composition des images de 3 projets LVL: HNIC, AMC, 
+- Graphique de la composition des images de 3 projets LVL: HNIC, AMC
 
 [1]: http://fr.slideshare.net/kleinerperkins/kpcb-internet-trends-2013
 [2]: http://httparchive.org/compare.php
