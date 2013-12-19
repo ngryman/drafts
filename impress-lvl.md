@@ -244,7 +244,7 @@ Oui !
 - Hautes performances
 - Prix faible
 
-### Voyons-voir
+### Voyons-voir...
 
 - Oui, solution sur le cloud: SaaS: Software as a Service
 - Installation: 5/5 - Pratiquement rien.
