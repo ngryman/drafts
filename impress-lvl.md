@@ -223,6 +223,10 @@ Pour simplifier, moyenne d'une note qui peut dépendre selon l'implémentation /
 - Visuel courbe (adaptif)
 - Visuel courbe (parfaite/fluide)
 
+### Peut-on arriver a 5/5 ?
+
+Oui !
+
 ## RIBS
 
 **Rideau? Arrivee des device avec l'image de RIBS, puis le logo qui fait apparaitre les mots Responsive Images Backed Server-side**.
@@ -240,7 +244,7 @@ Pour simplifier, moyenne d'une note qui peut dépendre selon l'implémentation /
 - Hautes performances
 - Prix faible
 
-### Peut-on arriver à plus?
+### Voyons-voir
 
 - Oui, solution sur le cloud: SaaS: Software as a Service
 - Installation: 5/5 - Pratiquement rien.
