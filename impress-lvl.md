@@ -223,6 +223,23 @@ Pour simplifier, moyenne d'une note qui peut dépendre selon l'implémentation /
 - Visuel courbe (adaptif)
 - Visuel courbe (parfaite/fluide)
 
+## RIBS
+
+**Rideau? Arrivee des device avec l'image de RIBS, puis le logo qui fait apparaitre les mots Responsive Images Backed Server-side**.
+**Son?**
+
+- RIBS: Responsive Images Backed Server-side
+- RESS
+  - Responsive Design + Server Side Components
+  - Un sereur peut stocker, caculer et envoyer.
+  - Il peut egalement mutualiser: faire l'opération une fois pour tous.
+
+### Pitch
+
+- Processing d'images + CDN
+- Hautes performances
+- Prix faible
+
 ### Peut-on arriver à plus?
 
 - Oui, solution sur le cloud: SaaS: Software as a Service
@@ -245,25 +262,6 @@ Pour simplifier, moyenne d'une note qui peut dépendre selon l'implémentation /
 - Visuel courbe (parfaite/fluide)
 
 - A CE POINT, ON A PRESENTE QU'ON CHOISIT LA MEILLEURE SOLUTION POSSIBLE QUI REPOND LE MIEUX AUX CLIENTS POTENTIELS. IL NE RESTE PLUS QU'A DEMONTRER NOTRE AVENTAGE CONCURRENTIEL.
-
-### Peut-on arriver au score parfait pour tous?
-
-- RIBS: Responsive Images Backed Server-side
-- RESS
-  - Responsive Design + Server Side Components
-  - Un sereur peut stocker, caculer et envoyer.
-  - Il peut egalement mutualiser: faire l'opération une fois pour tous.
-
-## RIBS
-
-- Processing d'images + CDN
-- Hautes performances
-**Rideau? Arrivee des device avec l'image de RIBS, puis le logo qui fait apparaitre les mots Responsive Images Backed Server-side**.
-**Son?**
-
-### Réponse
-
-- Prix faible
 
 ### Concurrents
 
