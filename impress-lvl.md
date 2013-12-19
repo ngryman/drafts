@@ -319,6 +319,8 @@ Oui !
 
 ## Nouveaux avantages
 
+- Marketing
+  - http://www.journaldunet.com/solutions/expert/43840/le-marketing--faiblesse-ou-force-de-l-open-source.shtml
 - Notoriété
 - Extensible
 - Stable
