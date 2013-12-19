@@ -342,7 +342,7 @@ Oui !
 - Perte de clients potentiels
   - N'auraient probablement pas été des clients
   - Vecteurs de communication
-  - Potentiels utilisateurs plus tard !
+  - Potentiels utilisateurs plus tard ! (moi avec Github / Spotify par ex)
 
 ## Possibilites
 
