@@ -266,6 +266,7 @@ Oui !
 - Pre-caching
 - Permettre de modifier les parametres de sharpening (et autres) par image.
 - Détection cliente a d'autres plateformes: iOS, Android, Wordpress, etc...
+- Partenariats avec des plateformes de blogging ou autres.
 
 ### Voyons-voir...
 
