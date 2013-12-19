@@ -212,7 +212,7 @@ Pour simplifier, moyenne d'une note qui peut dépendre selon l'implémentation /
 - Scalability: 4/5 - Bon
 - Prix: 5/5 - en général solutions open source
 - Utilisateur
-  - Qualite: 3/5 - Dépend de comment c'est fait
+  - Qualite: 3/5 - Dépend de comment c'est fait, offrir le meilleur resizing, constant pour tous les navigateurs
   - Attente: 4/5 - Optimale, mais dépend de comment le cache et CDN sont configuré
   - Fluidité: 5/5 - Pixel perfect.
 - TOTAL:
@@ -240,9 +240,30 @@ Oui !
 
 ### Pitch
 
-- Processing d'images + CDN
+- SaaS + CDN
 - Hautes performances
 - Prix faible
+
+### SaaS + CDN
+
+- Service de processing d'image, payable à l'image.
+  - On paye se qu'on consomme
+  - Pas de barrières, de BFR
+- CDN
+  - On paye encore moins car Cloudflare -> gratuit
+  - Rapide
+  - Géo-localisé
+- Console de gestion
+  
+### Hautes performances
+
+- Stack Node.js & natif (C++)
+- Gestion des quotas, mémoire, SIMD
+
+### Futures possibilites
+
+- Pre-caching
+
 
 ### Voyons-voir...
 
