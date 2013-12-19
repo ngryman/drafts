@@ -258,6 +258,8 @@ Pour simplifier, moyenne d'une note qui peut dépendre selon l'implémentation /
 
 - Processing d'images + CDN
 - Hautes performances
+**Rideau? Arrivee des device avec l'image de RIBS, puis le logo qui fait apparaitre les mots Responsive Images Backed Server-side**.
+**Son?**
 
 ### Réponse
 
