@@ -340,15 +340,6 @@ Oui !
 - Propriété intellectuelle
   - Licences ! Ce n'est pas le far west.
 
-- Etat actuel des images
-  - images adaptives **au mieux**.
-  - mauvaise utilisation du cache [[1]]
-  - resize souvent manuel, ou automatique, faible qualité
-  - mauvais choix de compression pour JPEG
-  - pas d'adaptation aux nouveaux formats émergeants (WebP).
-
-[1]: http://httparchive.org/interesting.php#caching
-
 ## Possibilites
 
 - Dual-licensing
@@ -376,6 +367,15 @@ http://oss-watch.ac.uk/resources/duallicence2
     - Une solution performante va attirer, intriguer (surtout si elle se compare a l'existant).
     
 - Profil developpeur, a developper trolololo
+
+- Etat actuel des images
+  - images adaptives **au mieux**.
+  - mauvaise utilisation du cache [[1]]
+  - resize souvent manuel, ou automatique, faible qualité
+  - mauvais choix de compression pour JPEG
+  - pas d'adaptation aux nouveaux formats émergeants (WebP).
+
+[1]: http://httparchive.org/interesting.php#caching
 
 - Planning
   - Service + com
