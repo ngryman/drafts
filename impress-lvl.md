@@ -127,7 +127,7 @@ http://royal.pingdom.com/2011/11/21/web-pages-getting-bloated-here-is-why/
 
 ## Solutions actuelles
 
-On va séparer en deux:
+On va séparer des facteurs cles du success en deux:
   - Entrepise, total sur 10
   - Utilisateur, total sur 10
 Pour simplifier, moyenne d'une note qui peut dépendre selon l'implémentation / application et autres.
@@ -272,6 +272,10 @@ Oui !
 - TODO: note en fonction des profils
 
 ### Avantages concurrentiels
+
+- Prix
+- Performances
+- Qualité
 
 - A CE POINT, ON A CONVAINCU QUE NOTRE PRODUIT EST LE MEILLEUR.
 
