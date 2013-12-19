@@ -342,7 +342,7 @@ Oui !
 - Perte de clients potentiels
   - N'auraient probablement pas été des clients
   - Vecteurs de communication
-  - Potentiels utilisateurs plus tard ! (moi avec Github / Spotify par ex)
+  - Potentiels utilisateurs plus tard ! (moi avec Github / Spotify par ex) - comparable au Freemium mais sans coûts !!
 
 ## Possibilites
 
