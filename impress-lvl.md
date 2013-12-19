@@ -324,14 +324,6 @@ Oui !
 - Stable
 - Diversification
 
-## Possibilites
-
-- Dual-licensing
-- Closed-source puis open-source
-- Baseline + Advanced versions
-
-http://oss-watch.ac.uk/resources/duallicence2
-
 ## Risques potentiels
 
 - Propriété intellectuelle
@@ -345,6 +337,14 @@ http://oss-watch.ac.uk/resources/duallicence2
   - pas d'adaptation aux nouveaux formats émergeants (WebP).
 
 [1]: http://httparchive.org/interesting.php#caching
+
+## Possibilites
+
+- Dual-licensing
+- Closed-source puis open-source
+- Baseline + Advanced versions
+
+http://oss-watch.ac.uk/resources/duallicence2
 
 - Objectifs
   - Performance
