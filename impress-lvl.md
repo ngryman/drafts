@@ -253,6 +253,7 @@ Oui !
   - On paye encore moins car Cloudflare -> gratuit
   - Rapide
   - Géo-localisé
+- Détection client
 - Console de gestion
   
 ### Hautes performances
@@ -263,7 +264,8 @@ Oui !
 ### Futures possibilites
 
 - Pre-caching
-
+- Permettre de modifier les parametres de sharpening (et autres) par image.
+- Détection cliente a d'autres plateformes: iOS, Android, Wordpress, etc...
 
 ### Voyons-voir...
 
