@@ -339,6 +339,10 @@ Oui !
 
 - Propriété intellectuelle
   - Licences ! Ce n'est pas le far west.
+- Perte de clients potentiels
+  - N'auraient probablement pas été des clients
+  - Vecteurs de communication
+  - Potentiels utilisateurs plus tard !
 
 ## Possibilites
 
