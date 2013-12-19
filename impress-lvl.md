@@ -342,7 +342,7 @@ Oui !
   - Vecteurs de communication
   - Potentiels utilisateurs plus tard ! (moi avec Github / Spotify par ex) - comparable au Freemium mais sans coûts !!
 
-## Possibilites
+## Stratégies, à choisir
 
 - Dual-licensing
 - Closed-source puis open-source
