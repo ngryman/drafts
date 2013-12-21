@@ -427,6 +427,7 @@ Oui !
     - Exemple de Chrome avec Google (dérivé en Chrome Book, Chrome Store)
       - Stratégie lente de conquête du Web
       - Presque tous les devs utilisent Chrome maintenant
+        - Google utilise des Google Chrome Developer Advocates, qui font de l'open-source uniquement
       - Si demain Google sort un produit payant relatif a Chrome, tout le monde achète.
   - Apache
   - MySQL
