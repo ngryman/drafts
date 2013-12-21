@@ -345,7 +345,18 @@ Oui !
 
 ## Open Source (effet vitesse lumière sur le slide)
 
-- Qu'est-ce que c'est ?
+## Qu'est-ce que c'est ?
+
+- place d'autant plus importante dans le Web, qui est full open source, qui a un plus fort esprit OS que n'importe quel autre domaine.
+- LVL et l'open source (logos pour les projets qu'on utilise)
+  - Toolchain, IDE, serveurs: majorite open source
+  - Purple: full open source, node.js, mongodb, AngularJS
+  - Bell: node.js, AngularJS, jQuery, grunt, Phonegap, LESS
+  - AMC: node.js, jQuery, Lodash, Compass
+- On utilise l'open-source comme **outil qu'on utilise** ou **fondation qu'on leverage** (exemple de Mac OS: BSD, Chrome/Safari: Chromium).
+
+## En 2013
+
 - Ne pas voir l'open source comme dans les annees 2000, c'est aussi...
 - Une communaute enorme (Github seulement: 3.5M utilisateurs mi 2013), a suivi la tendance Web 2.0
   - Web 2.0 = contenu créé par les gens
@@ -372,8 +383,9 @@ Oui !
 [1]: http://caines.ca/blog/programming/the-node-js-community-is-quietly-changing-the-face-of-open-source/
 [2]: http://adambard.com/blog/top-github-languages-for-2013-so-far/
 
-## Ribs né dans l'open source
+## Ribs est né dans l'open source
 
+- https://github.com/h5bp/server-configs-node/issues/13 (10 months)
 - Devait faire partie intégrante de H5BP node-server
 - h5b: organisation la plus connues dans le milieu du Web, et de tout Github:
   1. twitter bootstrap (62k)
