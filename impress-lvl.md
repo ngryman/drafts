@@ -343,6 +343,39 @@ Oui !
 
 - Use the source Luke. (avec Yoda from Impress.js).
 
+## Ribs né dans l'open source
+
+- Devait faire partie intégrante de H5BP node-server
+- h5b: organisation la plus connues dans le milieu du Web, et de tout Github:
+  1. twitter bootstrap (62k)
+  2. jquery (27k)
+  3. node (26k)
+  4. h5bp (23k)
+- Paul Irish: Google Chrome, Modernizr, Yeoman, jQuery
+  - Github: 9.4k
+  - Twitter: 99 342
+- Chris Coyer: css tricks, codepen
+  - Github: 2.4k
+  - Twitter: 94 442
+- Addy Osmani: Google Chrome, Yeoman, TodoMVC, Grunt, Bower, jQuery
+  - Github: 5.8k
+  - Twitter: 49 806
+- Mathias Bynens: whatwg, lodash
+  - Github: 1.4k
+  - Twitter: 15 7666
+- Sindre Sorhus: Yeoman, Grunt, Bower
+  - Github: 1.5k
+  - Twitter: 8 978
+- Nicolas Gallagher: Twitter, Bower
+  - Github: 2.2k
+  - Twitter: 17 000
+- Divya Manian: Adobe, topcoat
+  - Github: 837
+  - Twitter: 16 287
+- Lea Verou: W3C
+  - Github: 3.3k
+  - Twitter: 39 988
+
 ## Open Source (effet vitesse lumière sur le slide)
 
 - Qu'est-ce que c'est ?
@@ -374,14 +407,15 @@ Oui !
 
 ## Nouveaux avantages
 
-### Pour nous
-
 - Marketing
   - http://www.journaldunet.com/solutions/expert/43840/le-marketing--faiblesse-ou-force-de-l-open-source.shtml
   - Exemple de Mozilla qui a pris des parts de marchés considérables a Internet Explorer.
   - Apache
   - MySQL
   - ...
+  - Imager.js, 4e de la trend Github en decembre 2013:
+    - https://github.com/trending?l=javascript&since=monthly
+    - https://github.com/BBC-News/Imager.js
 - Notoriété : l'image !
 - Extensible
 - Stable, qualité supérieure
