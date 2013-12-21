@@ -428,7 +428,7 @@ Oui !
     - https://github.com/trending?l=javascript&since=monthly
     - https://github.com/BBC-News/Imager.js
 - Notoriété : l'image !
-- Communication
+- Fidélisation
   - C'est du community management, a grande echelle, par le code.
 - Extensible
 - Stable, qualité supérieure
