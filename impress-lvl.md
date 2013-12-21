@@ -423,7 +423,11 @@ Oui !
     - D'abord les comprendre (ça tombe bien j'en suis un)
     - API sexy, etc...
     - seduire les developpeurs directement, et non les entreprises: se sont eux qui font les choix technologiques
-  - Exemple de Mozilla qui a pris des parts de marchés considérables a Internet Explorer.
+    - Exemple de Mozilla qui a pris des parts de marchés considérables a Internet Explorer.
+    - Exemple de Chrome avec Google (dérivé en Chrome Book, Chrome Store)
+      - Stratégie lente de conquête du Web
+      - Presque tous les devs utilisent Chrome maintenant
+      - Si demain Google sort un produit payant relatif a Chrome, tout le monde achète.
   - Apache
   - MySQL
   - ...
@@ -462,6 +466,10 @@ Oui !
 
 - Propriété intellectuelle
   - Licences ! Ce n'est pas le far west.
+- Concurrence
+  - Nous sommes les maitres de notre technologie, au yeux de TOUS grace a l'Open Source.
+  - Pas si simple de s'approprier une technologie
+  - Nous aurons toujours un chapitre d'avance
 - Perte de clients potentiels
   - N'auraient probablement pas été des clients
   - Vecteurs de communication
