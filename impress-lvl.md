@@ -416,6 +416,10 @@ Oui !
 
 - Marketing
   - http://www.journaldunet.com/solutions/expert/43840/le-marketing--faiblesse-ou-force-de-l-open-source.shtml
+  - Attirer les dev
+    - D'abord les comprendre (ça tombe bien j'en suis un)
+    - API sexy, etc...
+    - seduire les developpeurs directement, et non les entreprises: se sont eux qui font les choix technologiques
   - Exemple de Mozilla qui a pris des parts de marchés considérables a Internet Explorer.
   - Apache
   - MySQL
@@ -424,6 +428,8 @@ Oui !
     - https://github.com/trending?l=javascript&since=monthly
     - https://github.com/BBC-News/Imager.js
 - Notoriété : l'image !
+- Communication
+  - C'est du community management, a grande echelle, par le code.
 - Extensible
 - Stable, qualité supérieure
   - Trouver des exemple de comparaison OS vs proprio:
