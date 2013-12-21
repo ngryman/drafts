@@ -373,11 +373,6 @@ Oui !
       - http://www.nuget.org/
   - JavaScript #1 sur Github [[2]]
     - 264131 repos en 6 mois (janvier - aout)
-- Attirer les dev
-  - D'abord les comprendre (ça tombe bien j'en suis un)
-  - API sexy, etc...
-  - seduire les developpeurs directement, et non les entreprises: se sont eux qui font les choix technologiques
-- C'est du community management, a grande echelle, par le code.
 
 - good summary: https://groups.google.com/forum/#!topic/nodejs/BiZGuJsNjMM
 [1]: http://caines.ca/blog/programming/the-node-js-community-is-quietly-changing-the-face-of-open-source/
