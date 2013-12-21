@@ -331,6 +331,12 @@ Oui !
 
 ## Projections financieres / Modèle économique
 
+### Économie d'échelle
+
+- CM = CT / q
+  - avec CT = 14.4 + 20 = **34.4**
+            = 40.3 + 20 = **60.3**
+
 ## Merci
 
 ### Oh ! Attendez j'ai oublié quelque chose ...
@@ -350,7 +356,10 @@ Oui !
   - Grande, plus grande croissance
     - python:  29,720 packages / 22 years = 1351 packages per year
     - ruby:    54,385 packages / 18 years = 3022 packages per year
-    - node.js  26,966 packages / 4 years  = 6742 packages per year
+    - node.js: 26,966 packages / 4 years  = 6742 packages per year
+    - nuget:   17,513 packages / 3 years  = 5837 packages per year
+      - http://en.wikipedia.org/wiki/NuGet
+      - http://www.nuget.org/
   - JavaScript #1 sur Github [[2]]
     - 264131 repos en 6 mois (janvier - aout)
 - Attirer les dev
