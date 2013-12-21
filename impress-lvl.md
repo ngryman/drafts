@@ -378,6 +378,11 @@ Oui !
     - Joyent vs Azure
   - Le propriétaire est bridé, il peut marquer des points à son arrivée, mais sera vite dépassé par la vague de projet OS. On ne peut pas lutter contre des M de devs qui collaborent entre eux.
   - Le modèle propriétaire devient même moins adapté dans certains secteurs : le Web en est l'exemple parfait.
+- Colle le plus à la demande
+  - En contact direct avec les utilisateurs qui sont pro-actifs
+  - Possibilité de mettre en place des bounties:
+    - Etablir une top list de features
+    - Permettre de prioriser des items dans cette liste via des bounties
 - Diversification
 
 ## Risques potentiels
@@ -397,6 +402,10 @@ Oui !
 - Closed-source puis open-source
   - Minimise les risques early
   - Moins exposé
+  - Crowd Funding, bounty sur Kickstarter pour:
+    - fixer les bugs, développer de nouvelle features.
+    - Release le projet open source, tirer profit d'etre le seul projet potentiellement open source.
+      - On peut voir ca comme une sorte de don dans le milieu.
 - Baseline + Advanced versions
   - Pour moi la meilleure balance
 
