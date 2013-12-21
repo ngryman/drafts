@@ -237,6 +237,11 @@ Oui !
   - Responsive Design + Server Side Components
   - Un sereur peut stocker, caculer et envoyer.
   - Il peut egalement mutualiser: faire l'opération une fois pour tous.
+- Esprit
+  - Performance
+  - Qualité
+  - Scalability
+  - Rendre le Web meilleur B]
 
 ### Pitch
 
@@ -294,13 +299,22 @@ Oui !
 ### Concurrents
 
 - TODO: note en fonction des profils
+- responsive.io
+- ress.io
+- adaptive-images.com
+- resrc.it
+   - liste
+   - etat des lieux
+   - comparaison
+   - cdn intelligents: akamai
 
 ### Avantages concurrentiels
 
 - Prix
-
+  - prix adaptifs et degressifs
 - Performances
 - Qualité
+- Scaling
 
 - A CE POINT, ON A CONVAINCU QUE NOTRE PRODUIT EST LE MEILLEUR.
 
@@ -315,7 +329,7 @@ Oui !
 - Conferences ?
 - Kickstarter
 
-## Projections financieres
+## Projections financieres / Modèle économique
 
 ## Merci
 
@@ -323,7 +337,7 @@ Oui !
 
 - Use the source Luke. (avec Yoda from Impress.js).
 
-## Open source (effet vitesse lumière sur le slide)
+## Open Source (effet vitesse lumière sur le slide)
 
 - Qu'est-ce que c'est ?
 - Ne pas voir l'open source comme dans les annees 2000, c'est aussi...
@@ -332,12 +346,21 @@ Oui !
 - Comme dans toute communauté il y a:
   - des leaders (stars)
   - des modes
-- Communaute de Nodejs
+- Communaute de Nodejs [[1]]
+  - Grande, plus grande croissance
+    - python:  29,720 packages / 22 years = 1351 packages per year
+    - ruby:    54,385 packages / 18 years = 3022 packages per year
+    - node.js  26,966 packages / 4 years  = 6742 packages per year
+  - JavaScript #1 sur Github [[2]]
+    - 264131 repos en 6 mois (janvier - aout)
 - Attirer les dev
   - D'abord les comprendre (ça tombe bien j'en suis un)
   - API sexy, etc...
   - seduire les developpeurs directement, et non les entreprises: se sont eux qui font les choix technologiques
 - C'est du community management, a grande echelle, par le code.
+
+[1]: http://caines.ca/blog/programming/the-node-js-community-is-quietly-changing-the-face-of-open-source/
+[2]: http://adambard.com/blog/top-github-languages-for-2013-so-far/
 
 ## Nouveaux avantages
 
@@ -378,12 +401,6 @@ Oui !
   - Pour moi la meilleure balance
 
 http://oss-watch.ac.uk/resources/duallicence2
-
-- Objectifs
-  - Performance
-  - Qualité
-  - Scalability
-  - Rendre le Web meilleur B]
   
 - Solution
   - Calcul du cout par image moyen
