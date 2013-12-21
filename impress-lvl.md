@@ -414,6 +414,8 @@ Oui !
 
 ## Nouveaux avantages
 
+### Communication
+
 - Marketing
   - http://www.journaldunet.com/solutions/expert/43840/le-marketing--faiblesse-ou-force-de-l-open-source.shtml
   - Attirer les dev
@@ -430,6 +432,9 @@ Oui !
 - Notoriété : l'image !
 - Fidélisation
   - C'est du community management, a grande echelle, par le code.
+
+### Produit
+
 - Extensible
 - Stable, qualité supérieure
   - Trouver des exemple de comparaison OS vs proprio:
@@ -442,6 +447,9 @@ Oui !
   - Possibilité de mettre en place des bounties:
     - Etablir une top list de features.
     - Permettre de prioriser des items dans cette liste via des bounties.
+
+### Stratégique
+
 - Diversification
   - Fork et specialisation dans d'autres domaines, auquels on aurait peut-etre pas pensé.
 - Freemium gratuit pour nous:
