@@ -109,22 +109,6 @@
  - platforme sur le cloud, en quoi ca repond mieux
    - facile a utilser
    - instantane
- 
-## concurrents
-
- - responsive.io
- - resrc.it
-   - liste
-   - etat des lieux
-   - comparaison
-   - cdn intelligents: akamai
- 
-## avantages concurrentiels
- 
-  - prix
-    - prix adaptifs et degressifs
-  - qualite
-  - scaling
 
 ## modele economique
 
@@ -250,6 +234,7 @@ MAIS ON POURRAIT FAIRE ENCORE MIEUX!
 ## technologies
 
  - nodejs: evented i/o, javascript
+   - https://code.google.com/p/node-js-vs-apache-php-benchmark/wiki/Tests
  - C++: manipulation
    - custom IO
    - Leptonica (Google dev) puis custom operations
