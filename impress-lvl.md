@@ -343,6 +343,35 @@ Oui !
 
 - Use the source Luke. (avec Yoda from Impress.js).
 
+## Open Source (effet vitesse lumière sur le slide)
+
+- Qu'est-ce que c'est ?
+- Ne pas voir l'open source comme dans les annees 2000, c'est aussi...
+- Une communaute enorme (Github seulement: 3.5M utilisateurs mi 2013), a suivi la tendance Web 2.0
+  - Web 2.0 = contenu créé par les gens
+- Comme dans toute communauté il y a:
+  - des leaders (stars)
+  - des modes
+- Communaute de Nodejs [[1]]
+  - Grande, plus grande croissance
+    - python:  29,720 packages / 22 years = 1351 packages per year
+    - ruby:    54,385 packages / 18 years = 3022 packages per year
+    - node.js: 26,966 packages / 4 years  = 6742 packages per year
+    - nuget:   17,513 packages / 3 years  = 5837 packages per year
+      - http://en.wikipedia.org/wiki/NuGet
+      - http://www.nuget.org/
+  - JavaScript #1 sur Github [[2]]
+    - 264131 repos en 6 mois (janvier - aout)
+- Attirer les dev
+  - D'abord les comprendre (ça tombe bien j'en suis un)
+  - API sexy, etc...
+  - seduire les developpeurs directement, et non les entreprises: se sont eux qui font les choix technologiques
+- C'est du community management, a grande echelle, par le code.
+
+- good summary: https://groups.google.com/forum/#!topic/nodejs/BiZGuJsNjMM
+[1]: http://caines.ca/blog/programming/the-node-js-community-is-quietly-changing-the-face-of-open-source/
+[2]: http://adambard.com/blog/top-github-languages-for-2013-so-far/
+
 ## Ribs né dans l'open source
 
 - Devait faire partie intégrante de H5BP node-server
@@ -375,35 +404,6 @@ Oui !
 - Lea Verou: W3C
   - Github: 3.3k
   - Twitter: 39 988
-
-## Open Source (effet vitesse lumière sur le slide)
-
-- Qu'est-ce que c'est ?
-- Ne pas voir l'open source comme dans les annees 2000, c'est aussi...
-- Une communaute enorme (Github seulement: 3.5M utilisateurs mi 2013), a suivi la tendance Web 2.0
-  - Web 2.0 = contenu créé par les gens
-- Comme dans toute communauté il y a:
-  - des leaders (stars)
-  - des modes
-- Communaute de Nodejs [[1]]
-  - Grande, plus grande croissance
-    - python:  29,720 packages / 22 years = 1351 packages per year
-    - ruby:    54,385 packages / 18 years = 3022 packages per year
-    - node.js: 26,966 packages / 4 years  = 6742 packages per year
-    - nuget:   17,513 packages / 3 years  = 5837 packages per year
-      - http://en.wikipedia.org/wiki/NuGet
-      - http://www.nuget.org/
-  - JavaScript #1 sur Github [[2]]
-    - 264131 repos en 6 mois (janvier - aout)
-- Attirer les dev
-  - D'abord les comprendre (ça tombe bien j'en suis un)
-  - API sexy, etc...
-  - seduire les developpeurs directement, et non les entreprises: se sont eux qui font les choix technologiques
-- C'est du community management, a grande echelle, par le code.
-
-- good summary: https://groups.google.com/forum/#!topic/nodejs/BiZGuJsNjMM
-[1]: http://caines.ca/blog/programming/the-node-js-community-is-quietly-changing-the-face-of-open-source/
-[2]: http://adambard.com/blog/top-github-languages-for-2013-so-far/
 
 ## Nouveaux avantages
 
