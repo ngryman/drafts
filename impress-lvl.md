@@ -460,8 +460,9 @@ Oui !
   - Fork et specialisation dans d'autres domaines, auquels on aurait peut-etre pas pensé.
 - Freemium gratuit pour nous:
   - Solution open-source correspond exactement au modèle, sans cout pour nous
-- Adoption par de grosses structures
 - Pénétration à presque 100% dans le marché potentiel
+  - Au lieu de ne rien faire avec les non-clients, les laisser utiliser notre solution pour la spreader, l'améliorer et éventuellement se convertir plus tard.
+- Adoption par de grosses structures
 
 ## Risques potentiels
 
