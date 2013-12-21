@@ -347,7 +347,8 @@ Oui !
 
 ## Qu'est-ce que c'est ?
 
-- place d'autant plus importante dans le Web, qui est full open source, qui a un plus fort esprit OS que n'importe quel autre domaine.
+- Important dans le Web, qui est full open source, qui a un plus fort esprit OS que n'importe quel autre domaine.
+  - les gens sont habitués à la gratuité.
 - LVL et l'open source (logos pour les projets qu'on utilise)
   - Toolchain, IDE, serveurs: majorite open source
   - Purple: full open source, node.js, mongodb, AngularJS
