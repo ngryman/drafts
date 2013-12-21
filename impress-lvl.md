@@ -364,6 +364,8 @@ Oui !
 
 ## Nouveaux avantages
 
+### Pour nous
+
 - Marketing
   - http://www.journaldunet.com/solutions/expert/43840/le-marketing--faiblesse-ou-force-de-l-open-source.shtml
   - Exemple de Mozilla qui a pris des parts de marchés considérables a Internet Explorer.
@@ -384,6 +386,11 @@ Oui !
     - Etablir une top list de features.
     - Permettre de prioriser des items dans cette liste via des bounties.
 - Diversification
+  - Fork et specialisation dans d'autres domaines, auquels on aurait peut-etre pas pensé.
+- Freemium gratuit pour nous:
+  - Solution open-source correspond exactement au modèle, sans cout pour nous
+- Adoption par de grosses structures
+- Pénétration à presque 100% dans le marché potentiel
 
 ## Risques potentiels
 
