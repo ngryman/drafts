@@ -368,6 +368,7 @@ Oui !
   - seduire les developpeurs directement, et non les entreprises: se sont eux qui font les choix technologiques
 - C'est du community management, a grande echelle, par le code.
 
+- good summary: https://groups.google.com/forum/#!topic/nodejs/BiZGuJsNjMM
 [1]: http://caines.ca/blog/programming/the-node-js-community-is-quietly-changing-the-face-of-open-source/
 [2]: http://adambard.com/blog/top-github-languages-for-2013-so-far/
 
