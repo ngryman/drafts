@@ -381,8 +381,8 @@ Oui !
 - Colle le plus à la demande
   - En contact direct avec les utilisateurs qui sont pro-actifs
   - Possibilité de mettre en place des bounties:
-    - Etablir une top list de features
-    - Permettre de prioriser des items dans cette liste via des bounties
+    - Etablir une top list de features.
+    - Permettre de prioriser des items dans cette liste via des bounties.
 - Diversification
 
 ## Risques potentiels
