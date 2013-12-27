@@ -3,9 +3,12 @@
 ### Nombre de devices et Internet
 
 - 16% du traffic sont des tablettes / mobiles [[1]]
-- Dans certains pays, le mobile est la seule maniere d'accéder à Internet.
-- croissance x8 des mobiles par rapport au desktop [[2]]
-- dans les 4 prochaines annees, la croissance est prevue a x26 [[2]]
+  - Dans certains pays, le mobile est la seule maniere d'accéder à Internet.
+  - croissance x8 des mobiles par rapport au desktop [[2]]
+  - dans les 4 prochaines annees, la croissance est prevue a x26 [[2]]
+  
+## Segmentation croissante
+
 - android domine 80% du marche [[4]]
   - plus de 300 devices [[3]]
 - croissance d'android -> plus grande segmentation -> plus de tailles d'ecrans [[3]]
@@ -16,6 +19,8 @@
 [4]: http://appleinsider.com/articles/13/11/12/idc-data-shows-66-of-androids-81-smartphone-share-are-junk-phones-selling-for-215
 
 ### Performance as design
+
+- 87% des usagers mobile s'attendent a ce que les sites chargent aussi vite voir plus vite que sur desktop.
 
 > It’s time for us to treat performance as an essential design feature, not just as a technical best practice. - Brad Frost
 
