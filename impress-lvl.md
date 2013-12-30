@@ -2,7 +2,7 @@
 
 ### Nombre de devices et Internet
 
-- 16% du traffic sont des tablettes / mobiles [[1]]
+- 28% du traffic sont des tablettes / mobiles [[1]]
   - Dans certains pays, le mobile est la seule maniere d'accéder à Internet.
   - croissance x8 des mobiles par rapport au desktop [[2]]
   - dans les 4 prochaines annees, la croissance est prevue a x26 [[2]]
@@ -13,14 +13,25 @@
   - plus de 300 devices [[3]]
 - croissance d'android -> plus grande segmentation -> plus de tailles d'ecrans [[3]]
 
-[1]: http://blogs.adobe.com/digitalmarketing/digital-index/tablets-trump-smartphones-in-global-website-traffic
+[1]: http://marketingland.com/mobile-traffic-now-28-percent-of-total-report-64218
+[x]: http://blogs.adobe.com/digitalmarketing/digital-index/tablets-trump-smartphones-in-global-website-traffic
 [2]: http://fr.slideshare.net/livefront/responsive-design-7877412
 [3]: http://developer.android.com/about/index.html
 [4]: http://appleinsider.com/articles/13/11/12/idc-data-shows-66-of-androids-81-smartphone-share-are-junk-phones-selling-for-215
 
-### Performance as design
+## Performance
 
 - 87% des usagers mobile s'attendent a ce que les sites chargent aussi vite voir plus vite que sur desktop.
+
+## Problematique
+
+==> Accéder à la **même application** sur **tous les devices**, **partout** et de manière **performante**.
+- avant le cross platform signifiait cross OS, cross hardware.
+- maintenant cela signifie egalement cross screen, cross input.
+
+... performante
+
+### Performance as design
 
 > It’s time for us to treat performance as an essential design feature, not just as a technical best practice. - Brad Frost
 
@@ -40,12 +51,6 @@
 
 http://www.globaldots.com/how-website-speed-affects-conversion-rates/
 http://www.globaldots.com/10-reasons-to-speed-up-your-website/
-
-## Problematique
-
-==> Accéder à la **même application** sur **tous les devices**, **partout** et de manière **performante**.
-- avant le cross platform signifiait cross OS, cross hardware.
-- maintenant cela signifie egalement cross screen, cross input.
 
 ## Qui ça intéresse?
 
