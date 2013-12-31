@@ -19,7 +19,7 @@
 [3]: http://developer.android.com/about/index.html
 [4]: http://appleinsider.com/articles/13/11/12/idc-data-shows-66-of-androids-81-smartphone-share-are-junk-phones-selling-for-215
 
-## Performance
+## Expectative
 
 - 87% des usagers mobile s'attendent a ce que les sites chargent aussi vite voir plus vite que sur desktop.
 
@@ -30,6 +30,10 @@
 - maintenant cela signifie egalement cross screen, cross input.
 
 ... performante
+
+### Performance
+
+
 
 ### Performance as design
 
