@@ -249,7 +249,7 @@ Oui !
 - RIBS: Responsive Images Backed Server-side
 - RESS
   - Responsive Design + Server Side Components
-  - Un sereur peut stocker, caculer et envoyer.
+  - Un sereur peut stocker, calculer et envoyer.
   - Il peut egalement mutualiser: faire l'opération une fois pour tous.
 - Esprit
   - Performance
