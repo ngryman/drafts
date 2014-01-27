@@ -17,7 +17,7 @@
 [x]: http://blogs.adobe.com/digitalmarketing/digital-index/tablets-trump-smartphones-in-global-website-traffic
 [2]: http://fr.slideshare.net/livefront/responsive-design-7877412
 [3]: http://developer.android.com/about/index.html
-[4]: http://appleinsider.com/articles/13/11/12/idc-data-shows-66-of-androids-81-smartphone-share-are-junk-phones-selling-for-215
+[4]: http://www.idc.com/getdoc.jsp?containerId=prUS24442013
 
 ## Expectative
 
